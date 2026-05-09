@@ -890,8 +890,6 @@ from typing import NoReturn
 # ------------------------------------------------------------------------------
 # Paths / Registry
 # ------------------------------------------------------------------------------
-
-
 @dataclass(frozen=True)
 class Challenge:
     """Registry entry for a single monthly challenge."""
@@ -909,15 +907,13 @@ def _challenge_dir(ch: Challenge) -> Path:
 
 
 CHALLENGES: dict[str, Challenge] = {
-    "challenge15": Challenge(name="challenge15", folder="2026-02-challenge15"),
+    "challenge15": Challenge(name="challenge15", folder="2026_02_challenge15"),
 }
 
 
 # ------------------------------------------------------------------------------
 # Helpers
 # ------------------------------------------------------------------------------
-
-
 def _die(msg: str, *, code: int = 2) -> NoReturn:
     print(f"error: {msg}", file=sys.stderr)
     raise SystemExit(code)
@@ -1006,8 +1002,6 @@ def build_parser() -> argparse.ArgumentParser:
 # ------------------------------------------------------------------------------
 # Dispatch
 # ------------------------------------------------------------------------------
-
-
 def _dispatch_challenge15(command: str | None, passthrough: list[str]) -> int:
     ch = CHALLENGES["challenge15"]
     ch_dir = _challenge_dir(ch)
