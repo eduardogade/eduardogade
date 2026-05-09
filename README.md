@@ -169,10 +169,10 @@ https://github.com/eggduzao/eggduzao/tree/main/stack_overflow/challenge_15
 <a id="profile"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-profile.svg" width="880">
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#roadmap">Knowledge Domains</a></b> | <b>Machine Learning & Data Systems</b> at the intersection of <b>Biology</b>, <b>Medicine</b>, and <b>Software Engineering</b> </p>
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#techstack">Technical Quality</a></b> | Focused on <b>end-to-end ML systems</b>: from messy data -> reliable models -> long-lived production </p>
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#career">Leadership</a></b> | Strong emphasis on <b>reproducibility</b>, <b>auditability</b>, and <b>systems that age well</b> </p>
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#cv">Broad Curriculum</a></b> | Experience spanning <b>ML pipelines</b>, <b>data engineering</b>, <b>cloud/HPC</b>, and <b>bioinformatics</b> </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#roadmap">Knowledge Domains</a></b> | <b>Data Engineering & Platform Systems</b> across <b>cloud</b>, <b>hybrid</b>, and <b>regulated data environments</b> </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#techstack">Technical Quality</a></b> | Focused on <b>production-grade pipelines</b>: from raw ingestion -> trusted datasets -> analytics-ready products </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#career">Engineering Practice</a></b> | Strong emphasis on <b>reliability</b>, <b>reproducibility</b>, <b>auditability</b>, and <b>systems that age well</b> </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b><a href="#cv">Broad Curriculum</a></b> | Experience spanning <b>ETL/ELT</b>, <b>distributed processing</b>, <b>cloud/HPC</b>, <b>data quality</b>, and <b>ML-adjacent systems</b> </p>
 <!-- - Currently open to <b>long-term, technically demanding role</b>s (on-site or hybrid) -->
 
 <details>
@@ -182,32 +182,34 @@ https://github.com/eggduzao/eggduzao/tree/main/stack_overflow/challenge_15
 
 Hello, and welcome to my profile. My name is Eduardo - grab a cup of coffee and allow me to introduce myself.
 
-I build **Machine Learning & Data Systems** where **Biology**, **Medicine**, and **Software Engineering** meet
-(and occasionally argue - that's fine, [I'm a trained diplomat](#education)).
+I build **data platforms and production-grade data systems** where _messy real-world inputs_ are transformed into **reliable**, **auditable**, and **analysis-ready products**.
 
-My work focuses on **end-to-end ML systems**. In practice, that means taking _messy real-world data_, _ingesting_ it (ETL, in industry terms), and serving it reliably for downstream use:
+In practical terms, my work lives somewhere between:
 
-- **Large-scale processing** - things need to flow smoothly.
-- **Model training** - using math to reward or punish learning machines
-  (I once broke a gradient in an RNN's head, but it was already vanishing).
-- **Deployment** - when ideas meet reality and still have to behave.
+- **Data ingestion** - where reality arrives poorly formatted and with opinions.
+- **Transformation layers** - where Python, SQL, Spark, and modeling discipline try to restore civilization.
+- **Data quality** - because a pipeline that runs and a pipeline that is correct are not the same animal.
+- **Delivery** - where analytics, BI, ML, and internal users need datasets that are stable enough to trust and boring enough to maintain.
 
-I care deeply about **reliability**, **scalability**, and **systems that age well** - like a good Madeira wine.
+I specialize in **Python**, **SQL**, **PySpark/Spark**, **cloud and hybrid data infrastructure**, **ETL/ELT pipelines**, **data modeling**, **validation frameworks**, and **reproducible platform workflows**. I have worked across environments involving _AWS_, _GCP_, _Azure_, _HPC clusters_, _Docker/Kubernetes_, _CI/CD_, and large heterogeneous datasets that rarely introduce themselves politely.
 
-I have experience designing **modular data pipelines**, **scalable data engineering architectures**, **container-orchestrated systems**, and **ML workflows** using _Python-centric_ stacks and modern _deep learning frameworks_. This usually translates to:
+My engineering bias is simple: build systems that are **clear**, **testable**, **observable**, and **maintainable after the original excitement has left the room**.
 
-- **Production ML and data pipelines** with strong _reproducibility_ and _auditability_
-- _Scalable_ processing for _high-volume analytical_ workloads
-- _Feature engineering layers_ serving both _training_ and _inference_
-- **Bioinformatics workflows** integrated with _HPC_ and _cloud environments_
+This usually translates to:
 
-I often work at the boundary between scientific complexity and engineering constraints, [translating domains](#communication) such as _Chromatin Biology_, _Cancer Immunology_, _Gene Regulation_, _Microscopy_, _Spatial Transcriptomics_, and **Precision Medicine** into **clear**, **testable**, and **auditable** computational systems.
+- **Production data pipelines** with strong _reproducibility_, _monitoring_, and _failure handling_
+- _Scalable_ batch and distributed processing for high-volume analytical workloads
+- _Data modeling layers_ supporting analytics, BI, reporting, and ML workflows
+- _Validation and governance practices_ for environments where correctness is not decorative
+- _Cloud, hybrid, and HPC workflows_ designed to survive both scale and human memory
 
-I value **[clean design](#causes)**, **[explicit trade-offs](#roadmap)**, and **[systems that are understandable by humans](#research)** - not just machines.
+My background includes complex healthcare and enterprise data environments, but my current professional identity is straightforward: **Senior Data Engineer / Data Platform Engineer**. Machine Learning is still part of the toolbox, but the main job is now the plumbing, contracts, orchestration, and reliability that make downstream intelligence possible.
+
+I value **[clean design](#causes)**, **[explicit trade-offs](#roadmap)**, and **[systems that are understandable by humans](#research)** - not just machines with suspicious confidence.
 
 **[Ethics](#ethics)**, **[reproducibility](#gitanalytics)**, and **[long-term sustainability](#pinned)** are not optional; they are part of the job.
 
-[Availailability](#availability) | Currently open to on-site or hybrid roles and long-term engagements. [See contact details](#contact).
+[Availability](#availability) | Currently open to remote, hybrid, relocation-friendly, and long-term Data Engineering / Data Platform roles. [See contact details](#contact).
 Relocation and onboarding take planning - good systems (and good moves) benefit from doing things properly.
 
 [Cheers](#bloom).
@@ -219,15 +221,17 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
 <a id="career"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-career.svg" width="880">
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2024 | Senior Industry | Machine Learning & Bioinformatics Researcher | Germany </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2025 | Committer | Awarded Apache Spark Committer Status | The Apache Software Foundation (ASF) | Finland & Brazil </p>
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2022 | Industry | Carreer-shift to Industry | Turku Biosciences | Finland </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2022 | Senior Transition | Senior Data Engineer | Turku Biosciences & Brazilian Ministry of Health | Finland & Brazil </p>
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2020 | Outreach | Award-Winning Outreach Campaign | Göttingen University Medical School | Germany </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2020 | Outreach | Award-Winning COVID-19 Outreach Campaign | Göttingen University Medical School | Germany </p>
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2018 | Senior Researcher | Machine Learning & Bioinformatics Researcher | Dana-Farber Cancer Institute | USA </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2017 | Patent | LAG3-Targeting Cancer Therapy | Current owner: Bristol Myers Squibb | USA </p>
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2016 | Patent | LAG3-Targeting Cancer Therapy | Current owner: Bristol Myers Squibb | USA </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2016 | Industry Transition | Data Engineer | Dana-Farber Cancer Institute | USA </p>
+
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2013 | Research | Computational Biology Researcher | RWTH University Medical School | Germany </p>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
@@ -246,24 +250,24 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
   <h4 align="center">KEY MILESTONES</h4>
 </div>
 
-- **Machine Learning Engineer** 
-  - Efficient systems leveraging variational inference
+- **Data Engineer** 
+  - Efficient systems leveraging distributed systems
   - Delivered [25+ full production solutions](https://www.gusmaolab.org)
   - Combined operating margin [growth of ~175%](https://www.gusmaolab.org)
   
-- **Bioinformatics Researcher**
+- **Data & Health Researcher**
   - Advanced multi-omics precision medicine pipelines
-  - [20+ full production](https://www.gusmaolab.org) solutions, 2x earned [ESG compliance](https://www.gusmaolab.org)
+  - [8 full production](https://www.gusmaolab.org) solutions, earned [ESG compliance](https://www.gusmaolab.org)
   - **[Relatlimab](https://medium.com/@eduardogade)** + nivolumab shown an ORR of 43.1%!
   
-- **Diplomat between medicine and AI**
-  - From personalized training to [Platform Courses](https://www.youtube.com/@chaoticallysimple)
-  - Mentored 25+ MLOps Engineers
-  - Mentored 15+ bioinformatics researchers
+- **Diplomat between stakeholders**
+  - Advanced storytelling techniques
+  - Translate real-world business problems into systems
+  - Sharp and operational communication
 
-- **Currently: Cloud & MLOps**
+- **Current: Cloud & Platform Systems**
   - Developing efficient cloud-based ecosystems
-  - Managing 8 Bioinfo, 12 MLOps personell
+  - Managing 4 DEs, 2 Data Scientists and 1 Dev
   - Filed 2 patents and improved operating margin by ~18%
 
 </td>
@@ -275,18 +279,18 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
 
 - **Technical Writing, Blogging & Prose**
   - Maintains a technical blog at [GusmaoLab](https://www.gusmaolab.org/category/blog)
-  - Shares prose at [Medium](https://medium.com/@eduardogade) and [DevTo](https://dev.to/eduardogade)
+  - Shares prose at [Medium](https://medium.com/@eduardogade)
   - Top-100 Best-Selling at [Amazon](https://www.amazon.com.br/Theory-Random-Sets-Ilya-Molchanov/dp/1849969493)
   
 - **Public Speaking**
+  - From personalized training to [Platform Courses](https://www.youtube.com/@chaoticallysimple)
   - Keynote spearker at [NeurIPS](https://www.gusmaolab.org/category/blog) [ICML](https://www.gusmaolab.org/category/blog) and [ISMB](https://www.gusmaolab.org/category/blog)
-  - Best Speak at [ICML](https://www.gusmaolab.org/category/blog), [ISMB](https://www.gusmaolab.org/category/blog) and [BSB/X-Meeting](https://www.gusmaolab.org/category/blog)
-  - Over 30 presentations delivered
+  - 200+ high-stakes presentations delivered
 
 - **Professor, Educator & Mentor**
   - Professor of CS at [UFPE/CIn](https://portal.cin.ufpe.br/) and [TUM/SLS](https://www.tum.de/en/)
-  - Created & delivered 25+ [semester classes](https://www.gusmaolab.org/category/blog)
-  - Taught >1,500 students; Mentored 50+ MSc/PhDs
+  - Mentored 25+ [Junior/Mid Data Engineers](https://www.gusmaolab.org/category/blog)
+  - Taught >1,500 students; Mentored 15+ MSc/PhDs
   
 - **Professional Networks**
   - Connects [researchers and developers](https://www.gusmaolab.org/category/blog)
@@ -307,32 +311,34 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
 <img src="https://www.gusmaolab.org/images/github/section/section-cv.svg" width="880">
 
 ```yaml
-Name: Eduardo G Gusmao
-Role: Senior Machine Learning Researcher | Applied Scientist
-Contact: eduardo@gusmaolab.org | English, Portuguese
-Education: 2 x PhD | Machine Learning & Precision Medicine
-Research_Profile: 8+ years experience on Translational & Production-Aware Method Development
+name: "Eduardo Gusmao"
+role: "Senior Data Engineer | Data Platform Engineer"
+contact: "Recife, Brazil | eduardogade@gmail.com | github.com/eggduzao | linkedin.com/in/eduardogade"
+languages: "English fluent | Portuguese native | Spanish B2 | German A2 | Finnish A1"
 
-Professional_Engagements:
-  Technical University of Munich:
-    - Title: Senior Machine Learning Researcher
-    - Date: Apr 2024 - Current
-    - "Role & Scope": 
-      - Lead a multi-disciplinary phenotype & EHR AI initiative.
-      - Coordinate a distributed team of biologists, computer engineers and clinicians.
-      - Establish cross-team workflows.
-      - Act as technical translator between scientists and stakeholders.
-    - "Key Outcomes":
-      - Delivered core system ~8 months ahead of schedule.
-      - System performance improvements measured in orders of magnitude over prior lab-bound workflows.
-      - Contributed to large-scale genotype-phenotype analyses across tens of thousands of individuals.
+education: "2x PhD in Biomedical Informatics and Data Engineering / Computational Life Sciences; BSc + MSc in Computer Science"
 
-Development_Environment:
-  - Infrastructure: AWS | HPC | GCP
-  - Languages: Python | SQL | C/C++ | R | Bash/Shell
-  - MLStack: PyTorch | TensorFlow | JAX | Spark | Grafana
-  - DataStack: PostgreSQL | MongoDB | Pinecone | REST/GraphQL | Pandas
-  - SysOps: (Micro)Mamba | Docker | Kubernetes | GH Actions | Prometheus
+summary: "Data Platform Engineer with 8+ years designing scalable data platforms, distributed systems, and production-grade pipelines across healthcare, life sciences, and enterprise environments. Strong Python, SQL, PySpark/Spark, AWS, Docker/Kubernetes, CI/CD, data quality, and analytics/BI platform experience."
+
+professional_engagements:
+  current_role:
+    company: "Turku Biosciences / Brazilian Ministry of Health"
+    title: "Senior Data Engineer"
+    location: "Finland / Brazil"
+    date: "Sep 2022 - Present"
+    scope:
+      - "Lead a national-scale precision-medicine data platform integrating genomic, phenotypic, and clinical EHR data for 65,000+ individuals."
+      - "Build scalable Python, SQL, PySpark/Spark, Databricks-adjacent, HPC/SLURM, and API-driven ingestion and transformation workflows."
+      - "Deliver regulated ingestion, validation, governance, PII-compliant processing, observability, idempotency, and data quality controls."
+      - "Support analytics, BI, and ML workloads through reusable integration layers, backend data services, and optimized Parquet-based processing."
+
+development_environment:
+  infrastructure: "AWS | Azure | GCP | HPC/SLURM | Docker | Kubernetes | Terraform | GitHub Actions"
+  languages: "Python | SQL | PySpark | Bash/Shell | Scala | Java | C/C++ | YAML | HCL"
+  data_stack: "PySpark | Spark | Pandas | Polars | NumPy | BigQuery | PostgreSQL | Parquet | JSON | dbt | dimensional modeling"
+  platform_engineering: "ETL/ELT | ingestion frameworks | transformation layers | platform APIs | CI/CD | observability | validation | data quality"
+  ml_ai_stack: "ML pipelines | MLOps | feature engineering | LLM APIs | embeddings | RAG | Hugging Face"
+  collaboration: "Agile/Scrum | stakeholder enablement | analytics teams | data scientists | engineers | product | infrastructure | security"
 ```
 
 <details>
@@ -341,169 +347,188 @@ Development_Environment:
 <br/>
 
 ```yaml
-Name: Eduardo G Gusmao
-Role: Senior Machine Learning Researcher | Applied Scientist
-Contact: eduardo@gusmaolab.org | English, Portuguese, German, Spanish
+name: "Eduardo Gusmao"
+role: "Senior Data Engineer | Data Platform Engineer | Cloud Data Engineer"
+location: "Recife, Brazil"
+contact: "eduardogade@gmail.com | github.com/eggduzao | linkedin.com/in/eduardogade"
+languages: "English fluent | Portuguese native | Spanish B2 | German A2 | Finnish A1"
 
-Summary: Senior Research Engineer with 8+ years of experience building scalable ML systems for genomics, multi-omics, and biomedical data, bridging research prototypes and production-grade pipelines across large clinical datasets.
+summary: "Data Platform Engineer with 8+ years of experience designing and operating scalable data platforms, distributed data systems, and production-grade pipelines across healthcare, life sciences, and enterprise environments. Strong expertise in Python and SQL, with hands-on experience in PySpark/Spark, Kafka-style event-driven workflows, Airflow, AWS, Docker/Kubernetes, Terraform, and CI/CD to build reliable data infrastructure and platform services."
 
-Core_Expertise:
-  - "Machine Learning"
-  - "Deep Learning"
-  - "Statistical Modeling"
-  - "Bioinformatics"
+core_expertise:
+  - "Data Engineering"
+  - "Data Platform Engineering"
+  - "Cloud and Hybrid Data Infrastructure"
+  - "Distributed Data Systems"
+  - "ETL/ELT Pipelines"
+  - "Data Modeling and Analytics Engineering"
+  - "Data Quality and Governance"
+  - "Healthcare and Life Sciences Data"
+  - "Machine Learning Data Pipelines"
+  - "Production Reliability and Observability"
 
-Career_Profile:
-  - "Method Development"
-  - "Translational Modeling"
-  - "Production-Aware Research"
+career_profile:
+  - "8+ years building scalable data platforms and distributed data systems"
+  - "Production-grade ingestion, transformation, validation, observability, and internal tooling"
+  - "Strong Python, SQL, PySpark/Spark, cloud, CI/CD, Docker/Kubernetes, and data quality background"
+  - "Experience supporting analytics, BI, ML workflows, and mission-critical data products"
+  - "Comfortable translating complex stakeholder requirements into maintainable platform capabilities"
 
-Professional_Engagements:
+professional_engagements:
+  current:
+    company: "Turku Biosciences / Brazilian Ministry of Health"
+    title: "Senior Data Engineer"
+    location: "Finland / Brazil"
+    date: "Sep 2022 - Present"
+    scope:
+      - "Lead the design and delivery of a national-scale data platform for precision medicine, integrating multi-modal genomic, phenotypic, and clinical EHR data for 65,000+ individuals."
+      - "Build scalable Python-based pipelines, distributed systems, PySpark/Spark workflows, Databricks-adjacent processing, HPC/SLURM execution, and API-driven ingestion workflows."
+      - "Architect production-grade data platform services for regulated ingestion, validation, transformation, governance, PII-compliant processing, reproducible workflows, and quality/reliability controls."
+      - "Develop high-performance processing and modeling layers using Python, SQL, PySpark, partitioning strategies, Parquet formats, and distributed query tuning."
+      - "Design reusable integration layers and backend data services connecting heterogeneous clinical, genomic, and ERP/SAP data sources."
+      - "Enable event-driven workflows, orchestration patterns, and batch/streaming-adjacent pipelines supporting analytics, BI, and ML systems."
+      - "Collaborate with product, analytics, engineering, and infrastructure stakeholders to deliver platform capabilities, CI/CD, Docker/Kubernetes workloads, observability, logging, alerting, and performance tuning."
+    outcomes:
+      - "Integrated precision-medicine datasets for 65,000+ individuals."
+      - "Improved pipeline efficiency by approximately 25%."
+      - "Reduced storage costs by approximately 80%."
+      - "Enabled more than 40% faster data delivery for downstream analytics, BI, and ML systems."
 
-  "Technical University of Munich":
-    - Title: Senior Machine Learning Researcher
-    - Date: Apr 2024 - Current
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Lead a multidisciplinary phenotype + EHR AI initiative within a national-scale precision-medicine program spanning Germany and Brazil, defining technical direction, delivery cadence, and quality standards.
-      - Coordinate a distributed team of clinicians, biologists, and ML engineers to design, implement, and operate AI-assisted ETL, harmonization, and data-quality pipelines for heterogeneous real-world clinical data.
-      - Architect end-to-end workflows across Python, R, SQL/NoSQL, HPC clusters (SLURM/OpenPBS), and containerized deployments (Docker/Kubernetes), with reproducible environments, automated testing, and CI/CD release governance.
-      - Act as the primary technical interface across medical, biological, and computational stakeholders, translating clinical and research requirements into production-grade specifications and maintainable system components.
-    - Key_Outcomes:
-      - Delivered the core platform approximately 8 months ahead of schedule, unblocking early model training, stakeholder validation, and phased rollout to downstream teams.
-      - Achieved multi-order-of-magnitude throughput improvements over prior lab-bound workflows through schema standardization, automated validation, and optimized HPC execution.
-      - Enabled large-scale genotype-phenotype analyses across tens of thousands of individuals by providing harmonized feature stores, provenance tracking, and analysis-ready datasets for precision-medicine studies.
+  previous_mid:
+    company: "Göttingen General Hospital"
+    title: "Data Engineer II"
+    location: "Germany"
+    date: "Mar 2019 - Sep 2022"
+    scope:
+      - "Designed and implemented scalable data platform services using Python and SQL on cloud and hybrid environments."
+      - "Enabled reliable ingestion, transformation, and low-latency access for downstream analytics, BI, and application workloads."
+      - "Developed and optimized high-performance ETL/ELT pipelines with Python and PySpark, leveraging distributed processing, batch workflows, and orchestration patterns."
+      - "Refactored legacy systems into modular, production-grade platform services with CI/CD, automated testing, monitoring/logging, idempotency, retries, and robust error handling."
+      - "Built reusable data processing frameworks and integration layers for large-scale heterogeneous datasets."
+      - "Applied data modeling, validation, lifecycle standards, and governance across 12 cross-functional teams in a distributed environment."
+    outcomes:
+      - "Improved data availability and system responsiveness by approximately 33%."
+      - "Improved reliability, maintainability, and operational efficiency by approximately 50-60%."
+      - "Supported consistent data lifecycle practices across 12 cross-functional teams."
 
-  "University of Turku":
-    - Title: Senior Machine Learning Engineer
-    - Date: Mar 2022 - Apr 2024
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Designed and delivered an end-to-end spatial single-cell RNA-seq analysis platform, spanning laboratory inputs, scalable computation, and user-facing analytical outputs.
-      - Led a senior team of bioinformaticians and computer scientists to develop and validate deep-learning-based evaluation frameworks for complex biological signals.
-      - Orchestrated heterogeneous production stacks across Python, Docker, JavaScript, and GPU-enabled HPC clusters into a unified, reproducible workflow.
-    - Key_Outcomes:
-      - Delivered a production-ready, end-to-end pipeline in under 6 months, achieving strong internal adoption across collaborating research groups.
-      - Enabled methodological advances supporting T/NK-cell cancer immunotherapy research through robust spatial and single-cell modeling frameworks.
-      - Awarded Venia Docendi (Docentship) following extensive teaching, independent evaluation, and demonstrated academic leadership.
+  previous_old:
+    company: "Dana-Farber Cancer Institute"
+    title: "Data Engineer I"
+    location: "USA"
+    date: "Jan 2016 - Mar 2019"
+    scope:
+      - "Developed cloud-native data platform services supporting large-scale drug discovery."
+      - "Built Python-based ETL/ELT pipelines and API-driven integration layers for heterogeneous biomedical, operational, and financial datasets."
+      - "Implemented end-to-end data processing pipelines using Python, SQL, and PySpark on Apache Spark distributed systems."
+      - "Enabled scalable ingestion, transformation, validation, and batch workflows for analytics and ML-driven applications."
+      - "Collaborated with product, analytics, and research stakeholders to define KPIs and translate requirements into data models, backend data logic, and reusable platform components."
+      - "Contributed to production-grade data engineering practices including Git version control, validation checks, documentation, maintainable system design, reliability, and reproducibility."
+    outcomes:
+      - "Improved data accessibility and reduced operational costs by more than 25%."
+      - "Supported analytics and ML-driven applications through reusable data platform components."
+      - "Established reliable, reproducible lifecycle standards for heterogeneous biomedical and operational data."
 
-  "Göttingen University Medical School":
-    - Title: Senior Bioinformatics & Machine Learning Engineer
-    - Date: Jan 2020 - Mar 2022
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Unified fragmented ETL and data-quality processes into a single automated platform, establishing reliable ingestion, validation, and auditability across heterogeneous biomedical datasets.
-      - Eliminated redundant and unsafe data flows through systematic automation, schema validation, and defensive pipeline design.
-      - Built and co-maintained internal data and analytics frameworks using Python and multi-model database systems to support scalable research and operational workloads.
-    - Key_Outcomes:
-      - Delivered ~60% productivity gains across data-processing workflows by reducing manual intervention and pipeline fragmentation.
-      - Reduced wet-lab material consumption and operational costs through earlier error detection, reproducible preprocessing, and tighter data-experiment feedback loops.
-      - Led technical and outreach initiatives during the COVID period, supporting institutional response and cross-team coordination.
+education:
+  phd_biomedical_informatics:
+    degree: "Ph.D. in Biomedical Informatics"
+    institution: "Harvard Medical School"
+    location: "Boston / Cambridge, USA"
+    date: "2013 - 2017"
 
-  "Dana-Farber Cancer Institute":
-    - Title: Senior Bioinformatics Scientist
-    - Date: Jan 2018 - Jan 2020
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Developed integrated computational and experimental pipelines supporting CRISPR-based target discovery for cancer immunotherapy.
-      - Co-authored and maintained strategic bioinformatics tools adopted in hospital and translational research settings.
-      - Collaborated across major academic and clinical institutions, including Harvard T.H. Chan, Massachusetts General Hospital, and the Broad Institute, aligning computational analyses with clinical and experimental priorities.
-    - Key_Outcomes:
-      - Contributed to target-discovery efforts supporting LAG-3-based immunotherapy programs, which advanced into Phase II/III clinical trials with reported objective response rates (ORR) >50% and complete responses (CR) in ~16% of patients.
-      - Work contributed to intellectual property later licensed as Relatlimab-rmbw, acquired by Bristol Myers Squibb for approximately USD 3.5M.
-      - Contributed to the development of Relatlimab (commonly combined with Nivolumab), now approved and marketed as Opdualag, supporting improved outcomes for patients with advanced cancers.
+  phd_computational_life_sciences:
+    degree: "Ph.D. Dr. rer. nat. in Data Engineering and Computational Life Sciences"
+    institution: "RWTH Aachen University"
+    location: "Aachen, Germany"
+    date: "2011 - 2015"
 
-  "Harvard T.H. Chan School of Public Health":
-    - Title: Machine Learning Researcher
-    - Date: Jun 2015 - Jan 2018
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Applied deep-learning methods to tumor microenvironment modeling and immunotherapy response prediction, integrating experimental and computational signals.
-      - Introduced agile development practices (Scrum-style iteration, backlog prioritization, reproducible milestones) into computational research workflows.
-      - Developed and operated Python-based machine-learning pipelines on HPC infrastructure, supporting large-scale model training and evaluation.
-    - Key_Outcomes:
-      - Authored a novel deep-learning-based immunotherapy biomarker that increased effective CRISPR/Cas9 screening throughput by ~40% through improved off-target filtering.
-      - Reduced wet-lab experimentation costs by over 60% by computationally prioritizing high-confidence targets ahead of experimental validation.
-      - Enabled the study of multiple novel immunotherapy targets (including LAG-3, B7-H3/BCMA, and CD3), establishing a computational foundation for subsequent NK-cell-focused immunotherapy research.
+  bachelor_master_computer_science:
+    degree: "B.Sc. and M.Sc. in Computer Science"
+    institution: "Federal University of Pernambuco"
+    location: "Recife, Brazil"
+    date: "2008 - 2011"
 
-  "RWTH Aachen University":
-    - Title: Machine Learning Researcher
-    - Date: Sep 2011 - Jun 2015
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Conducted machine-learning and deep-learning research using Python-based pipelines and HPC infrastructure to address large-scale biomedical and regulatory genomics problems.
-      - Designed, trained, optimized, and maintained ML/DL models using reproducible, performance-aware best practices across the full model lifecycle.
-      - Authored and maintained a comprehensive regulatory genomics and epigenomics analysis framework supporting large-scale integrative studies.
-    - Key_Outcomes:
-      - Developed a bias-reduction and training-optimization framework that reduced model training time by ~20% without performance degradation.
-      - Co-authored evaluation tooling that improved model performance by ~5% (AUPRC), supported by robust statistical comparison using Friedman-Nemenyi post-hoc testing.
-      - Introduced production-grade experiment monitoring (Prometheus, Grafana), increasing team visibility and improving overall productivity by ~30%.
-      - Delivered regular deep-learning seminars with sustained participation, consistently positive feedback, and zero course drop-out.
+technical_strengths:
+  programming:
+    primary: ["Python", "SQL", "PySpark", "Spark SQL", "Bash/Shell"]
+    secondary: ["Scala", "Java", "C/C++", "YAML", "HCL"]
+   : ["REST APIs", "Async programming", "Data serialization", "Production-grade software engineering", "Parquet", "JSON"]
 
-  "Informatics Center (CIn/UFPE)":
-    - Title: Machine Learning Engineer
-    - Date: Oct 2007 - Sep 2011
-    - Type: On-Site
-    - Role_&_Scope: 
-      - Built and operated machine-learning pipelines and ETL preprocessing workflows on a self-hosted HPC cluster, supporting data-intensive research workloads.
-      - Designed and implemented a robust ETL backbone (pre-cloud / pre-AWS) that established durable data-ingestion and preprocessing standards adopted across research groups.
-      - Introduced cluster-wide monitoring and observability using Prometheus and Grafana, and delivered hands-on training sessions adopted by multiple teams.
-    - Key_Outcomes:
-      - Increased lab productivity by ~50% and processing throughput by ~30% by introducing Scrum-based planning and execution into technical workflows.
-      - Co-authored data-handling protocols that reduced data leakage and redundancy by ~35%.
-      - Reduced unsafe and cyclic ETL patterns by ~45% through systematic automation, validation, and pipeline restructuring.
+  data_platform_engineering:
+    capabilities: ["Scalable data platforms", "Distributed data systems", "Internal data tooling", "Reusable ingestion frameworks", "Transformation layers", "Platform APIs", "Developer-facing abstractions", "Self-service data capabilities", "Analytics enablement", "ML workflow support", "BI workload support"]
 
-Education:
-  - PhD2: 2015 - 2018 | Harvard University Medical School (Boston, USA) | Biomedical Informatics | Summa Cum Laude
-  - PhD1: 2011 - 2015 | RWTH Aachen University (Aachen, Germany) | Life Sciences | Summa Cum Laude
-  - MSc: 2010 - 2011 | Federal University of Pernambuco (Recife, Brazil) | Machine & Deep Learning | Grade 100%
-  - BSc: 2006 - 2010 | Federal University of Pernambuco (Recife, Brazil) | Computer Science | Grade 89.90%
+  distributed_data_systems:
+    tools: ["PySpark", "Apache Spark", "Pandas", "Polars", "NumPy"]
+    capabilities: ["Large-scale processing", "Distributed compute", "Performance tuning", "Partitioning", "Query optimization", "Resource efficiency", "Batch pipelines", "Streaming-adjacent pipelines", "Kafka", "Spark Streaming patterns"]
 
-Development_Environment:
-  - Hardware: ["AMD", "ARM", "NVIDIA", "Intel"]
-  - OS: ["MAC OS X", "Ubuntu", "Debian", "Fedora", "Windows"]
-  - Infrastructure:
-    - "Bare-Metal Servers"
-    - "VMs"
-    - Cloud_Computing: ["AWS", "GCP", "Azure"]
-    - HPC_Paradigm: ["Slurm", "OpenPBS", "MPI"]
-    - Infra_as_Code: ["Terraform", "CloudFormation", "Pulumi"]
+  cloud_hybrid_infrastructure:
+    cloud: ["AWS", "Azure", "GCP"]
+    infrastructure: ["HPC/SLURM", "Docker", "Kubernetes", "Terraform", "GitHub Actions", "GitLab CI"]
+    capabilities: ["Cloud-native data infrastructure", "Hybrid data infrastructure", "Infrastructure-aware engineering", "Containerized workloads", "Deployment environments", "Scalable platform operations"]
 
-  - Languages:
-    - Multi_Paradigm: ["Python", "C/C++", "R", "Bash/Shell", "Julia", "Go", "Rust", "Kotlin"]
-    - Web_OO: ["TypeScript", "Java", "Javascript", "C#", "Ruby", "PHP"]
-    - Markup: ["YAML", "Quarto", "LaTeX", "HTML/CSS/Markdown"]
-    - Declarative: ["SQL", "HCL"]
-  - Runtimes: ["CPython", "JVM", "Node.js"]
+  hadoop_on_prem_ecosystems:
+    technologies: ["HDFS", "YARN", "Hive", "Kerberos"]
+    capabilities: ["Distributed storage patterns", "Distributed compute patterns", "Legacy-to-modern platform evolution", "Secure access-controlled data environments"]
 
-  - ML_Stack:
-    - Frameworks: ["PyTorch", "JAX", "TensorFlow", "Keras", "Hugging Face", "NLTK", "Scikit-Learn"]
-    - Engines: ["Spark", "Ray", "TensorRT"]
-    - Models: ["Generative Models", "Variational Inference", "Graph Neural Networks", "Attention Hypergraph"]
+  data_modeling_tooling:
+   : ["Dimensional modeling", "Semantic modeling", "Schema design", "Metadata management", "Transformation layers", "Data contracts", "Lineage", "Modeling standards", "Analytics enablement", "Platform consistency"]
+    tools: ["dbt", "BigQuery", "PostgreSQL", "Parquet", "JSON"]
 
-  - Data_Stack:
-    - Databases:
-      - SQL: ["PostgreSQL", "MySQL"]
-      - NoSQL: ["MongoDB", "Arangodb", "Databricks"]
-      - Vector: ["Pinecone", "FAISS"]
-    - APIs: ["REST", "GraphQL", "gRPC"]
-    - Data_Software: ["Power BI", "Microsoft Suite", "HDF5/Parquet/Zarr"]
-    - Data_Tools:
-      - Basic: ["Pandas", "NumPy", "Scipy", "Bioconductor", "PySAM"]
-      - Big_Data: ["Dask", "Polars"]
-      - Specialized: ["PyCaret", "OpenCV"]
+  software_engineering_devops_reliability:
+    tools: ["Git", "GitHub", "GitHub Actions", "GitLab CI", "Docker", "Kubernetes", "Terraform"]
+    practices: ["CI/CD pipelines", "Automated testing", "Deployment automation", "Monitoring", "Logging", "Alerting", "Observability", "Incident response", "Idempotency", "Retries", "SLA/SLO thinking", "Fault-tolerant design"]
 
-  - Web_Stack:
-    - Frameworks: ["Django", "React", "Next.js", "Express.js"]
-    - Dashboards: ["Dash", "Streamlit", "Gradio"]
+  machine_learning_data_pipelines:
+    capabilities: ["ML pipelines", "MLOps", "Feature engineering", "Data preparation", "Personalization workflows", "AI-enabled data workflows", "Production-oriented ML data support"]
+    ai_llm: ["LLM APIs", "Embedding pipelines", "RAG", "Hugging Face"]
 
-  - Systems:
-    - Version_Control: ["Git", "Github"]
-    - Packaging: ["pip", "(micro)mamba", "(mini)conda", "poetry", "npm"]
-    - Containers: ["Docker", "Singularity", "Podman"]
-    - Orchestration: ["Kubernetes", "Helm"]
-    - CI_CD: ["GitHub Actions", "Jenkins", "GitLab CI"]
-    - Observability: ["Prometheus", "Grafana"]
+  data_security_governance_quality:
+    capabilities: ["Data privacy", "PII-aware processing", "Compliance-aware pipelines", "Access control", "Validation strategies", "Auditability", "Data quality checks", "Governance practices", "Secure data lifecycle management", "Reliability controls", "Consistency checks"]
+
+  processes_collaboration:
+    practices: ["High-ownership engineering mindset", "Agile/Scrum", "Cross-functional collaboration", "Stakeholder enablement", "Requirements translation", "Technical documentation", "Platform capability delivery"]
+    collaborators: ["Analysts", "Data scientists", "Engineers", "Product teams", "Infrastructure teams", "Security teams"]
+
+development_environment:
+  hardware: ["Apple Silicon", "ARM", "Intel", "NVIDIA GPU environments", "HPC clusters"]
+
+  operating_systems: ["macOS", "Ubuntu", "Debian", "Fedora", "Windows"]
+
+  infrastructure:
+    cloud_computing: ["AWS", "Azure", "GCP"]
+    hpc: ["SLURM", "OpenPBS", "Distributed compute environments"]
+    containers: ["Docker", "Kubernetes", "Singularity"]
+    infrastructure_as_code: ["Terraform", "HCL", "Cloud deployment"]
+
+  languages:
+    data_engineering: ["Python", "SQL", "PySpark", "Spark SQL", "Bash/Shell"]
+    systems_and_general: ["C/C++", "Java", "Scala"]
+    markup_and_config: ["YAML", "Markdown", "LaTeX", "HTML/CSS", "HCL"]
+
+  data_stack:
+    distributed_processing: ["Apache Spark", "PySpark", "Spark SQL", "Pandas", "Polars", "NumPy"]
+    storage_formats: ["Parquet", "JSON", "CSV", "HDF5"]
+    databases_and_warehouses: ["BigQuery", "PostgreSQL", "MongoDB", "DynamoDB", "Relational databases", "NoSQL databases"]
+    modeling_and_quality: ["Dimensional modeling", "Semantic modeling", "Schema design", "Data contracts", "Lineage", "Validation checks", "Data quality checks", "dbt"]
+
+  ml_ai_stack:
+    frameworks_and_tools: ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "Hugging Face", "NLTK"]
+    workflows: ["ML pipelines", "MLOps", "Feature engineering", "Embedding pipelines", "RAG", "LLM APIs"]
+
+  systems_tooling:
+    version_control: ["Git", "GitHub"]
+    packaging_and_environments: ["pip", "poetry", "micromamba", "mamba", "conda", "npm"]
+    ci_cd: ["GitHub Actions", "GitLab CI"]
+    observability: ["Logging", "Monitoring", "Alerting", "Observability", "Prometheus", "Grafana"]
+
+github_positioning:
+  short_pitch: "I build reliable data platforms, distributed pipelines, and production-ready data systems for analytics, BI, ML, and healthcare/life-sciences workloads."
+  engineering_style:
+    - "Clean, maintainable, typed Python"
+    - "Data quality and reliability first"
+    - "Production-aware platform design"
+    - "Reproducible workflows"
+    - "Strong documentation"
+    - "Pragmatic cloud and hybrid infrastructure"
 ```
 
 </details>
@@ -515,8 +540,8 @@ Development_Environment:
 
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Email</b> | eduardo@gusmaolab.org
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIN</b> | https://www.linkedin.com/eduardogade
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Location</b> | Recife, Brazil | Freising, Germany | Remote-friendly
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Status</b> | Open to senior ML / Bioinformatics roles
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Location</b> | Recife, Brazil | Remote-friendly
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Status</b> | Open to Data Engineering roles
 
 <details>
 <summary><em>I would like to know more...</em></summary>
@@ -526,17 +551,18 @@ Development_Environment:
 <img src="https://www.gusmaolab.org/images/brand/gusmaolab-card-2.svg" width="880">
 
 ### Professional Profiles
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIn:</b> https://www.linkedin.com/in/eduardogade/
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Website & Blog:</b> https://www.gusmaolab.org
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>One-Page Resume:</b> https://www.gusmaolab.org/Gusmao-EG-CV.pdf
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Stack Overflow:</b> https://stackoverflow.com/users/32223943/eduardo-gusmao
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Medium:</b> https://medium.com/@eduardogade
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Dev.to:</b> https://dev.to/eduardogade
+<!-- <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Dev.to:</b> https://dev.to/eduardogade
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>ORCiD:</b> https://orcid.org/my-orcid?orcid=0000-0001-7461-1443
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>ResearchGate:</b> https://www.researchgate.net/home
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Google Scholar:</b> https://scholar.google.com/citations?user=erHz7L8AAAAJ&hl=en
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Google Scholar:</b> https://scholar.google.com/citations?user=erHz7L8AAAAJ&hl=en -->
 
 ### Practical notes
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; Preferred contact: Email
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; Preferred contact: Email | LinkedIn
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; Response time: 1-2 business days
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; Open to remote, hybrid, or relocation
 
