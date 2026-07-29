@@ -59,7 +59,7 @@ mkdir -p ~/Projects/gusmaolab
 cd ~/Projects/gusmaolab
 ```
 
-If you prefer to work inside the eggduzao.github.io repo directly, that's also fine —
+If you prefer to work inside the eduardogade.github.io repo directly, that's also fine —
 but I recommend keeping Pelican output and GitHub Pages cleanly separated (we'll connect
 them later via GitHub actions).
 
@@ -394,7 +394,7 @@ DEFAULT_PAGINATION = 10
 # Blogroll / Links (optional)
 LINKS = (
     ('LinkedIn', 'https://www.linkedin.com/in/gusmao/'),
-    ('GitHub', 'https://github.com/eggduzao'),
+    ('GitHub', 'https://github.com/eduardogade'),
 )
 
 # Social widget (optional)
@@ -690,19 +690,19 @@ Put your avatar (avatar.png) and favicon (favicon.ico) in content/images/.
 ### GitHub Action for Auto-Deployment
 
 Building a clean separation between your Pelican source (gusmaolab/) and your publishing
-repo (eggduzao.github.io/) is the ideal and most professional website-deployment method.
+repo (eduardogade.github.io/) is the ideal and most professional website-deployment method.
 
 Currently we have:
 
 | Role             | Repo                        |
 | ---------------- | --------------------------- |
-| Pelican source   | eggduzao/gusmaolab          |
-| HTML deployed to | eggduzao/eggduzao.github.io |
+| Pelican source   | eduardogade/gusmaolab          |
+| HTML deployed to | eduardogade/eduardogade.github.io |
 
 **GOAL**: Set up a GitHub Action in gusmaolab to:
 
 - Build Pelican content
-- Push the generated output/ to the root of the eggduzao.github.io repo (overwriting)
+- Push the generated output/ to the root of the eduardogade.github.io repo (overwriting)
 - Trigger a deploy via GitHub Pages automatically
 
 ---
@@ -719,7 +719,7 @@ Copy the token — you won't see it again.
 
 ---
 
-**Step 2**: Add the PAT as a Secret in gusmaolab 1. Go to: eggduzao/gusmaolab → Settings
+**Step 2**: Add the PAT as a Secret in gusmaolab 1. Go to: eduardogade/gusmaolab → Settings
 → Secrets and variables → Actions → New repository secret 2. Name: PAGES_DEPLOY_TOKEN 3.
 Value: your token from step A
 
@@ -765,7 +765,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
-          external_repository: eggduzao/eggduzao.github.io
+          external_repository: eduardogade/eduardogade.github.io
           publish_dir: ./output
           publish_branch: main # or master, depending on that repo's default
           user_name: "Eduardo Gusmao"
@@ -774,9 +774,9 @@ jobs:
 
 ---
 
-**Step 4**: Configure eggduzao.github.io Repo
+**Step 4**: Configure eduardogade.github.io Repo
 
-Go to Settings > Pages of eggduzao.github.io:
+Go to Settings > Pages of eduardogade.github.io:
 
 - Source: Deploy from a branch
 - Branch: main or master (whatever the default is)
@@ -791,7 +791,7 @@ In ~/Projects/gusmaolab/:
 
 ```bash
 git add .github/workflows/deploy.yml
-git commit -m "Add GitHub Action for cross-repo deploy to eggduzao.github.io"
+git commit -m "Add GitHub Action for cross-repo deploy to eduardogade.github.io"
 git push origin main
 ```
 
@@ -804,14 +804,14 @@ Go to gusmaolab → Actions tab. You'll see the "Deploy Pelican site..." workflo
 If all goes well, you'll see:
 
 - Green ✅ build
-- New files in eggduzao.github.io repo
+- New files in eduardogade.github.io repo
 - www.gusmaolab.org updates automatically
 
 ---
 
 > Optional Tweaks
 
-1. Add a README.md to eggduzao.github.io So visitors to the repo don't get a blank
+1. Add a README.md to eduardogade.github.io So visitors to the repo don't get a blank
    directory
 2. Add .nojekyll to output/ To prevent GitHub from misinterpreting underscores (Pelican
    does this automatically)

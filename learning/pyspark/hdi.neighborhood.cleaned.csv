@@ -1,0 +1,907 @@
+countryCode,currencyLabel,hdi,neighborCode,country
+AD,euro,0.884,ES,http://www.wikidata.org/entity/Q228
+AD,euro,0.884,FR,http://www.wikidata.org/entity/Q228
+AE,United Arab Emirates dirham,0.911,IR,http://www.wikidata.org/entity/Q878
+AE,United Arab Emirates dirham,0.911,OM,http://www.wikidata.org/entity/Q878
+AE,United Arab Emirates dirham,0.911,SA,http://www.wikidata.org/entity/Q878
+AF,afghani,0.478,CN,http://www.wikidata.org/entity/Q889
+AF,afghani,0.478,UZ,http://www.wikidata.org/entity/Q889
+AF,afghani,0.478,IR,http://www.wikidata.org/entity/Q889
+AF,afghani,0.478,PK,http://www.wikidata.org/entity/Q889
+AF,afghani,0.478,TJ,http://www.wikidata.org/entity/Q889
+AF,afghani,0.478,TM,http://www.wikidata.org/entity/Q889
+AG,Eastern Caribbean dollar,0.851,GB,http://www.wikidata.org/entity/Q781
+AL,Albanian lek,0.796,GR,http://www.wikidata.org/entity/Q222
+AL,Albanian lek,0.796,MK,http://www.wikidata.org/entity/Q222
+AL,Albanian lek,0.796,ME,http://www.wikidata.org/entity/Q222
+AL,Albanian lek,0.796,RS,http://www.wikidata.org/entity/Q222
+AL,Albanian lek,0.796,XK,http://www.wikidata.org/entity/Q222
+AM,Armenian dram,0.759,TR,http://www.wikidata.org/entity/Q399
+AM,Armenian dram,0.759,AZ,http://www.wikidata.org/entity/Q399
+AM,Armenian dram,0.759,GE,http://www.wikidata.org/entity/Q399
+AM,Armenian dram,0.759,IR,http://www.wikidata.org/entity/Q399
+AO,kwanza,0.586,ZM,http://www.wikidata.org/entity/Q916
+AO,kwanza,0.586,CG,http://www.wikidata.org/entity/Q916
+AO,kwanza,0.586,CD,http://www.wikidata.org/entity/Q916
+AO,kwanza,0.586,GA,http://www.wikidata.org/entity/Q916
+AO,kwanza,0.586,NA,http://www.wikidata.org/entity/Q916
+AR,Argentine convertible peso,0.842,UY,http://www.wikidata.org/entity/Q414
+AR,Argentine convertible peso,0.842,GB,http://www.wikidata.org/entity/Q414
+AR,Argentine convertible peso,0.842,BR,http://www.wikidata.org/entity/Q414
+AR,Argentine convertible peso,0.842,CL,http://www.wikidata.org/entity/Q414
+AR,Argentine convertible peso,0.842,PY,http://www.wikidata.org/entity/Q414
+AR,Argentine convertible peso,0.842,BO,http://www.wikidata.org/entity/Q414
+AT,euro,0.916,HU,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,IT,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,CH,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,DE,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,CZ,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,SK,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,SI,http://www.wikidata.org/entity/Q40
+AT,euro,0.916,LI,http://www.wikidata.org/entity/Q40
+AU,Australian dollar,0.951,ID,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,TL,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,NZ,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,SB,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,VU,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,PG,http://www.wikidata.org/entity/Q408
+AU,Australian dollar,0.951,NC,http://www.wikidata.org/entity/Q408
+AW,Aruban florin,,,http://www.wikidata.org/entity/Q21203
+AZ,Azerbaijani manat,0.745,TR,http://www.wikidata.org/entity/Q227
+AZ,Azerbaijani manat,0.745,RU,http://www.wikidata.org/entity/Q227
+AZ,Azerbaijani manat,0.745,GE,http://www.wikidata.org/entity/Q227
+AZ,Azerbaijani manat,0.745,AM,http://www.wikidata.org/entity/Q227
+AZ,Azerbaijani manat,0.745,IR,http://www.wikidata.org/entity/Q227
+BA,convertible mark,0.78,HR,http://www.wikidata.org/entity/Q225
+BA,convertible mark,0.78,ME,http://www.wikidata.org/entity/Q225
+BA,convertible mark,0.78,RS,http://www.wikidata.org/entity/Q225
+BB,Barbadian dollar,0.79,,http://www.wikidata.org/entity/Q244
+BD,Bangladeshi taka,0.661,IN,http://www.wikidata.org/entity/Q902
+BD,Bangladeshi taka,0.661,MM,http://www.wikidata.org/entity/Q902
+BE,euro,0.937,LU,http://www.wikidata.org/entity/Q31
+BE,euro,0.937,FR,http://www.wikidata.org/entity/Q31
+BE,euro,0.937,DE,http://www.wikidata.org/entity/Q31
+BF,West African CFA franc,0.449,GH,http://www.wikidata.org/entity/Q965
+BF,West African CFA franc,0.449,ML,http://www.wikidata.org/entity/Q965
+BF,West African CFA franc,0.449,TG,http://www.wikidata.org/entity/Q965
+BF,West African CFA franc,0.449,BJ,http://www.wikidata.org/entity/Q965
+BF,West African CFA franc,0.449,CI,http://www.wikidata.org/entity/Q965
+BF,West African CFA franc,0.449,NE,http://www.wikidata.org/entity/Q965
+BG,euro,0.799,GR,http://www.wikidata.org/entity/Q219
+BG,euro,0.799,TR,http://www.wikidata.org/entity/Q219
+BG,euro,0.799,RO,http://www.wikidata.org/entity/Q219
+BG,euro,0.799,MK,http://www.wikidata.org/entity/Q219
+BG,euro,0.799,RS,http://www.wikidata.org/entity/Q219
+BH,Bahraini dinar,0.875,IR,http://www.wikidata.org/entity/Q398
+BH,Bahraini dinar,0.875,SA,http://www.wikidata.org/entity/Q398
+BI,Burundian franc,0.426,TZ,http://www.wikidata.org/entity/Q967
+BI,Burundian franc,0.426,CD,http://www.wikidata.org/entity/Q967
+BI,Burundian franc,0.426,RW,http://www.wikidata.org/entity/Q967
+BJ,West African CFA franc,0.525,TG,http://www.wikidata.org/entity/Q962
+BJ,West African CFA franc,0.525,BF,http://www.wikidata.org/entity/Q962
+BJ,West African CFA franc,0.525,NE,http://www.wikidata.org/entity/Q962
+BJ,West African CFA franc,0.525,NG,http://www.wikidata.org/entity/Q962
+BN,Brunei dollar,0.829,MY,http://www.wikidata.org/entity/Q921
+BO,boliviano,0.692,BR,http://www.wikidata.org/entity/Q750
+BO,boliviano,0.692,CL,http://www.wikidata.org/entity/Q750
+BO,boliviano,0.692,AR,http://www.wikidata.org/entity/Q750
+BO,boliviano,0.692,PE,http://www.wikidata.org/entity/Q750
+BO,boliviano,0.692,PY,http://www.wikidata.org/entity/Q750
+BR,Brazilian real,0.754,UY,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,FR,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,AR,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,PE,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,VE,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,SR,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,PY,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,GY,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,CO,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,BO,http://www.wikidata.org/entity/Q155
+BR,Brazilian real,0.754,GF,http://www.wikidata.org/entity/Q155
+BS,Bahamian dollar,0.812,US,http://www.wikidata.org/entity/Q778
+BS,Bahamian dollar,0.812,GB,http://www.wikidata.org/entity/Q778
+BS,Bahamian dollar,0.812,TC,http://www.wikidata.org/entity/Q778
+BT,ngultrum,0.666,CN,http://www.wikidata.org/entity/Q917
+BT,ngultrum,0.666,IN,http://www.wikidata.org/entity/Q917
+BW,Botswana pula,0.693,ZA,http://www.wikidata.org/entity/Q963
+BW,Botswana pula,0.693,ZM,http://www.wikidata.org/entity/Q963
+BW,Botswana pula,0.693,ZW,http://www.wikidata.org/entity/Q963
+BW,Botswana pula,0.693,NA,http://www.wikidata.org/entity/Q963
+BY,Belarusian ruble,0.808,PL,http://www.wikidata.org/entity/Q184
+BY,Belarusian ruble,0.808,LT,http://www.wikidata.org/entity/Q184
+BY,Belarusian ruble,0.808,RU,http://www.wikidata.org/entity/Q184
+BY,Belarusian ruble,0.808,LV,http://www.wikidata.org/entity/Q184
+BY,Belarusian ruble,0.808,UA,http://www.wikidata.org/entity/Q184
+BZ,Belize dollar,0.683,MX,http://www.wikidata.org/entity/Q242
+BZ,Belize dollar,0.683,GT,http://www.wikidata.org/entity/Q242
+CA,Canadian dollar,0.936,US,http://www.wikidata.org/entity/Q16
+CD,Congolese franc,0.479,AO,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,TZ,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,CF,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,ZM,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,SS,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,BI,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,CG,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,CM,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,UG,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,RW,http://www.wikidata.org/entity/Q974
+CD,Congolese franc,0.479,SD,http://www.wikidata.org/entity/Q974
+CF,Central African CFA franc,0.404,TD,http://www.wikidata.org/entity/Q929
+CF,Central African CFA franc,0.404,SS,http://www.wikidata.org/entity/Q929
+CF,Central African CFA franc,0.404,CG,http://www.wikidata.org/entity/Q929
+CF,Central African CFA franc,0.404,CD,http://www.wikidata.org/entity/Q929
+CF,Central African CFA franc,0.404,CM,http://www.wikidata.org/entity/Q929
+CF,Central African CFA franc,0.404,SD,http://www.wikidata.org/entity/Q929
+CG,Central African CFA franc,0.571,AO,http://www.wikidata.org/entity/Q971
+CG,Central African CFA franc,0.571,CF,http://www.wikidata.org/entity/Q971
+CG,Central African CFA franc,0.571,CD,http://www.wikidata.org/entity/Q971
+CG,Central African CFA franc,0.571,GA,http://www.wikidata.org/entity/Q971
+CG,Central African CFA franc,0.571,CM,http://www.wikidata.org/entity/Q971
+CH,Swiss franc,0.962,IT,http://www.wikidata.org/entity/Q39
+CH,Swiss franc,0.962,AT,http://www.wikidata.org/entity/Q39
+CH,Swiss franc,0.962,FR,http://www.wikidata.org/entity/Q39
+CH,Swiss franc,0.962,DE,http://www.wikidata.org/entity/Q39
+CH,Swiss franc,0.962,LI,http://www.wikidata.org/entity/Q39
+CI,West African CFA franc,0.55,GH,http://www.wikidata.org/entity/Q1008
+CI,West African CFA franc,0.55,ML,http://www.wikidata.org/entity/Q1008
+CI,West African CFA franc,0.55,BF,http://www.wikidata.org/entity/Q1008
+CI,West African CFA franc,0.55,GN,http://www.wikidata.org/entity/Q1008
+CI,West African CFA franc,0.55,LR,http://www.wikidata.org/entity/Q1008
+CK,Cook Islands dollar,,,http://www.wikidata.org/entity/Q26988
+CK,New Zealand dollar,,,http://www.wikidata.org/entity/Q26988
+CL,Chilean peso,0.855,AR,http://www.wikidata.org/entity/Q298
+CL,Chilean peso,0.855,PE,http://www.wikidata.org/entity/Q298
+CL,Chilean peso,0.855,BO,http://www.wikidata.org/entity/Q298
+CM,Central African CFA franc,0.576,TD,http://www.wikidata.org/entity/Q1009
+CM,Central African CFA franc,0.576,CF,http://www.wikidata.org/entity/Q1009
+CM,Central African CFA franc,0.576,CG,http://www.wikidata.org/entity/Q1009
+CM,Central African CFA franc,0.576,GQ,http://www.wikidata.org/entity/Q1009
+CM,Central African CFA franc,0.576,GA,http://www.wikidata.org/entity/Q1009
+CM,Central African CFA franc,0.576,NG,http://www.wikidata.org/entity/Q1009
+CN,renminbi,0.768,JP,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,RU,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,KZ,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,KP,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,IN,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,MN,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,KG,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,LA,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,MM,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,NP,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,PK,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,TJ,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,VN,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,KR,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,AF,http://www.wikidata.org/entity/Q148
+CN,renminbi,0.768,BT,http://www.wikidata.org/entity/Q148
+CO,Colombian peso,0.752,BR,http://www.wikidata.org/entity/Q739
+CO,Colombian peso,0.752,PE,http://www.wikidata.org/entity/Q739
+CO,Colombian peso,0.752,VE,http://www.wikidata.org/entity/Q739
+CO,Colombian peso,0.752,EC,http://www.wikidata.org/entity/Q739
+CO,Colombian peso,0.752,PA,http://www.wikidata.org/entity/Q739
+CO,Colombian peso,0.752,NI,http://www.wikidata.org/entity/Q739
+CR,Costa Rican colón,0.809,PA,http://www.wikidata.org/entity/Q800
+CR,Costa Rican colón,0.809,NI,http://www.wikidata.org/entity/Q800
+CU,Cuban peso,0.764,US,http://www.wikidata.org/entity/Q241
+CU,Cuban peso,0.764,GB,http://www.wikidata.org/entity/Q241
+CV,Cape Verdean escudo,0.662,,http://www.wikidata.org/entity/Q1011
+CW,Caribbean guilder,0.89,,http://www.wikidata.org/entity/Q25279
+CY,euro,0.896,TR,http://www.wikidata.org/entity/Q229
+CY,euro,0.896,GB,http://www.wikidata.org/entity/Q229
+CY,euro,0.896,IL,http://www.wikidata.org/entity/Q229
+CZ,Czech koruna,0.889,PL,http://www.wikidata.org/entity/Q213
+CZ,Czech koruna,0.889,AT,http://www.wikidata.org/entity/Q213
+CZ,Czech koruna,0.889,DE,http://www.wikidata.org/entity/Q213
+CZ,Czech koruna,0.889,SK,http://www.wikidata.org/entity/Q213
+DE,euro,0.942,BE,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,LU,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,DK,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,PL,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,CH,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,AT,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,FR,http://www.wikidata.org/entity/Q183
+DE,euro,0.942,CZ,http://www.wikidata.org/entity/Q183
+DJ,Djiboutian franc,0.509,ET,http://www.wikidata.org/entity/Q977
+DJ,Djiboutian franc,0.509,ER,http://www.wikidata.org/entity/Q977
+DJ,Djiboutian franc,0.509,SO,http://www.wikidata.org/entity/Q977
+DK,Danish krone,0.929,NO,http://www.wikidata.org/entity/Q35
+DK,Danish krone,0.929,SE,http://www.wikidata.org/entity/Q35
+DK,Danish krone,0.929,DE,http://www.wikidata.org/entity/Q35
+DM,Eastern Caribbean dollar,0.74,VE,http://www.wikidata.org/entity/Q784
+DO,Dominican peso,0.767,US,http://www.wikidata.org/entity/Q786
+DO,Dominican peso,0.767,VE,http://www.wikidata.org/entity/Q786
+DO,Dominican peso,0.767,HT,http://www.wikidata.org/entity/Q786
+DO,Dominican peso,0.767,TC,http://www.wikidata.org/entity/Q786
+DZ,Algerian dinar,0.745,ES,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,IT,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,ML,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,TN,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,LY,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,MR,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,MA,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,NE,http://www.wikidata.org/entity/Q262
+DZ,Algerian dinar,0.745,EH,http://www.wikidata.org/entity/Q262
+EC,United States dollar,0.74,PE,http://www.wikidata.org/entity/Q736
+EC,United States dollar,0.74,CO,http://www.wikidata.org/entity/Q736
+EE,euro,0.89,RU,http://www.wikidata.org/entity/Q191
+EE,euro,0.89,LV,http://www.wikidata.org/entity/Q191
+EG,Egyptian pound,0.731,IL,http://www.wikidata.org/entity/Q79
+EG,Egyptian pound,0.731,LY,http://www.wikidata.org/entity/Q79
+EG,Egyptian pound,0.731,SD,http://www.wikidata.org/entity/Q79
+EG,Egyptian pound,0.731,PS,http://www.wikidata.org/entity/Q79
+ER,nakfa,0.492,ET,http://www.wikidata.org/entity/Q986
+ER,nakfa,0.492,DJ,http://www.wikidata.org/entity/Q986
+ER,nakfa,0.492,SD,http://www.wikidata.org/entity/Q986
+ES,euro,0.905,PT,http://www.wikidata.org/entity/Q29
+ES,euro,0.905,FR,http://www.wikidata.org/entity/Q29
+ES,euro,0.905,AD,http://www.wikidata.org/entity/Q29
+ES,euro,0.905,MA,http://www.wikidata.org/entity/Q29
+ES,euro,0.905,GI,http://www.wikidata.org/entity/Q29
+ET,bir,0.498,KE,http://www.wikidata.org/entity/Q115
+ET,bir,0.498,SS,http://www.wikidata.org/entity/Q115
+ET,bir,0.498,DJ,http://www.wikidata.org/entity/Q115
+ET,bir,0.498,ER,http://www.wikidata.org/entity/Q115
+ET,bir,0.498,SO,http://www.wikidata.org/entity/Q115
+ET,bir,0.498,SD,http://www.wikidata.org/entity/Q115
+FI,euro,0.94,NO,http://www.wikidata.org/entity/Q33
+FI,euro,0.94,SE,http://www.wikidata.org/entity/Q33
+FI,euro,0.94,RU,http://www.wikidata.org/entity/Q33
+FJ,Fijian dollar,0.73,SB,http://www.wikidata.org/entity/Q712
+FM,United States dollar,0.628,US,http://www.wikidata.org/entity/Q702
+FM,United States dollar,0.628,PG,http://www.wikidata.org/entity/Q702
+FM,United States dollar,0.628,PW,http://www.wikidata.org/entity/Q702
+FR,CFP Franc,0.903,ES,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,BE,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,LU,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,IT,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,CH,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,BR,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,DE,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,AD,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,MC,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,SR,http://www.wikidata.org/entity/Q142
+FR,CFP Franc,0.903,NL,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,ES,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,BE,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,LU,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,IT,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,CH,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,BR,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,DE,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,AD,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,MC,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,SR,http://www.wikidata.org/entity/Q142
+FR,euro,0.903,NL,http://www.wikidata.org/entity/Q142
+GA,Central African CFA franc,0.706,AO,http://www.wikidata.org/entity/Q1000
+GA,Central African CFA franc,0.706,CG,http://www.wikidata.org/entity/Q1000
+GA,Central African CFA franc,0.706,GQ,http://www.wikidata.org/entity/Q1000
+GA,Central African CFA franc,0.706,CM,http://www.wikidata.org/entity/Q1000
+GA,Central African CFA franc,0.706,ST,http://www.wikidata.org/entity/Q1000
+GB,pound sterling,0.929,IE,http://www.wikidata.org/entity/Q145
+GD,Eastern Caribbean dollar,0.795,VE,http://www.wikidata.org/entity/Q769
+GE,Georgian lari,0.802,TR,http://www.wikidata.org/entity/Q230
+GE,Georgian lari,0.802,RU,http://www.wikidata.org/entity/Q230
+GE,Georgian lari,0.802,AZ,http://www.wikidata.org/entity/Q230
+GE,Georgian lari,0.802,AM,http://www.wikidata.org/entity/Q230
+GH,Ghana cedi,0.632,TG,http://www.wikidata.org/entity/Q117
+GH,Ghana cedi,0.632,BF,http://www.wikidata.org/entity/Q117
+GH,Ghana cedi,0.632,CI,http://www.wikidata.org/entity/Q117
+GL,Danish krone,,CA,http://www.wikidata.org/entity/Q223
+GL,Danish krone,,NO,http://www.wikidata.org/entity/Q223
+GL,Danish krone,,IS,http://www.wikidata.org/entity/Q223
+GM,dalasi,0.5,SN,http://www.wikidata.org/entity/Q1005
+GN,Guinean franc,0.465,ML,http://www.wikidata.org/entity/Q1006
+GN,Guinean franc,0.465,GW,http://www.wikidata.org/entity/Q1006
+GN,Guinean franc,0.465,CI,http://www.wikidata.org/entity/Q1006
+GN,Guinean franc,0.465,LR,http://www.wikidata.org/entity/Q1006
+GN,Guinean franc,0.465,SN,http://www.wikidata.org/entity/Q1006
+GN,Guinean franc,0.465,SL,http://www.wikidata.org/entity/Q1006
+GQ,Central African CFA franc,0.596,GA,http://www.wikidata.org/entity/Q983
+GQ,Central African CFA franc,0.596,CM,http://www.wikidata.org/entity/Q983
+GQ,Central African CFA franc,0.596,ST,http://www.wikidata.org/entity/Q983
+GR,euro,0.887,TR,http://www.wikidata.org/entity/Q41
+GR,euro,0.887,BG,http://www.wikidata.org/entity/Q41
+GR,euro,0.887,MK,http://www.wikidata.org/entity/Q41
+GR,euro,0.887,AL,http://www.wikidata.org/entity/Q41
+GT,quetzal,0.627,MX,http://www.wikidata.org/entity/Q774
+GT,quetzal,0.627,BZ,http://www.wikidata.org/entity/Q774
+GT,quetzal,0.627,HN,http://www.wikidata.org/entity/Q774
+GT,quetzal,0.627,SV,http://www.wikidata.org/entity/Q774
+GW,West African CFA franc,0.483,GN,http://www.wikidata.org/entity/Q1007
+GW,West African CFA franc,0.483,SN,http://www.wikidata.org/entity/Q1007
+GY,Guyanese dollar,0.714,BR,http://www.wikidata.org/entity/Q734
+GY,Guyanese dollar,0.714,VE,http://www.wikidata.org/entity/Q734
+GY,Guyanese dollar,0.714,SR,http://www.wikidata.org/entity/Q734
+HN,Honduran lempira,0.621,GT,http://www.wikidata.org/entity/Q783
+HN,Honduran lempira,0.621,SV,http://www.wikidata.org/entity/Q783
+HN,Honduran lempira,0.621,NI,http://www.wikidata.org/entity/Q783
+HR,euro,0.858,HU,http://www.wikidata.org/entity/Q224
+HR,euro,0.858,SI,http://www.wikidata.org/entity/Q224
+HR,euro,0.858,BA,http://www.wikidata.org/entity/Q224
+HR,euro,0.858,ME,http://www.wikidata.org/entity/Q224
+HR,euro,0.858,RS,http://www.wikidata.org/entity/Q224
+HT,gourde,0.535,US,http://www.wikidata.org/entity/Q790
+HT,gourde,0.535,DO,http://www.wikidata.org/entity/Q790
+HT,gourde,0.535,TC,http://www.wikidata.org/entity/Q790
+HU,forint,0.846,AT,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,UA,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,SK,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,SI,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,RO,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,HR,http://www.wikidata.org/entity/Q28
+HU,forint,0.846,RS,http://www.wikidata.org/entity/Q28
+ID,rupiah,0.705,SG,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,AU,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,TL,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,IN,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,PG,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,PW,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,MY,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,TH,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,VN,http://www.wikidata.org/entity/Q252
+ID,rupiah,0.705,PH,http://www.wikidata.org/entity/Q252
+IE,euro,0.945,GB,http://www.wikidata.org/entity/Q27
+IL,new shekel,0.919,EG,http://www.wikidata.org/entity/Q801
+IL,new shekel,0.919,JO,http://www.wikidata.org/entity/Q801
+IL,new shekel,0.919,LB,http://www.wikidata.org/entity/Q801
+IL,new shekel,0.919,SY,http://www.wikidata.org/entity/Q801
+IN,Indian rupee,0.633,CN,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,ID,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,MM,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,NP,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,PK,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,LK,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,AF,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,BD,http://www.wikidata.org/entity/Q668
+IN,Indian rupee,0.633,BT,http://www.wikidata.org/entity/Q668
+IQ,Iraqi dinar,0.686,TR,http://www.wikidata.org/entity/Q796
+IQ,Iraqi dinar,0.686,IR,http://www.wikidata.org/entity/Q796
+IQ,Iraqi dinar,0.686,JO,http://www.wikidata.org/entity/Q796
+IQ,Iraqi dinar,0.686,KW,http://www.wikidata.org/entity/Q796
+IQ,Iraqi dinar,0.686,SA,http://www.wikidata.org/entity/Q796
+IQ,Iraqi dinar,0.686,SY,http://www.wikidata.org/entity/Q796
+IR,Iranian rial,0.774,TR,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,AZ,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,BH,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,AM,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,IQ,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,KW,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,OM,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,PK,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,QA,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,SA,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,TM,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,AE,http://www.wikidata.org/entity/Q794
+IR,Iranian rial,0.774,AF,http://www.wikidata.org/entity/Q794
+IS,Icelandic króna,0.959,GL,http://www.wikidata.org/entity/Q189
+IS,Icelandic króna,0.959,FO,http://www.wikidata.org/entity/Q189
+IT,euro,0.895,CH,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,AT,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,FR,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,SI,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,MT,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,VA,http://www.wikidata.org/entity/Q38
+IT,euro,0.895,SM,http://www.wikidata.org/entity/Q38
+JM,Jamaican dollar,0.709,GB,http://www.wikidata.org/entity/Q766
+JO,Jordanian dinar,0.72,IQ,http://www.wikidata.org/entity/Q810
+JO,Jordanian dinar,0.72,IL,http://www.wikidata.org/entity/Q810
+JO,Jordanian dinar,0.72,SA,http://www.wikidata.org/entity/Q810
+JO,Jordanian dinar,0.72,SY,http://www.wikidata.org/entity/Q810
+JO,Jordanian dinar,0.72,PS,http://www.wikidata.org/entity/Q810
+JP,yen,0.925,US,http://www.wikidata.org/entity/Q17
+JP,yen,0.925,CN,http://www.wikidata.org/entity/Q17
+JP,yen,0.925,RU,http://www.wikidata.org/entity/Q17
+JP,yen,0.925,TW,http://www.wikidata.org/entity/Q17
+JP,yen,0.925,KR,http://www.wikidata.org/entity/Q17
+JP,yen,0.925,PH,http://www.wikidata.org/entity/Q17
+KE,Kenyan shilling,0.575,ET,http://www.wikidata.org/entity/Q114
+KE,Kenyan shilling,0.575,TZ,http://www.wikidata.org/entity/Q114
+KE,Kenyan shilling,0.575,SS,http://www.wikidata.org/entity/Q114
+KE,Kenyan shilling,0.575,UG,http://www.wikidata.org/entity/Q114
+KE,Kenyan shilling,0.575,SO,http://www.wikidata.org/entity/Q114
+KE,Kenyan shilling,0.575,SD,http://www.wikidata.org/entity/Q114
+KG,Kyrgyz som,0.692,CN,http://www.wikidata.org/entity/Q813
+KG,Kyrgyz som,0.692,KZ,http://www.wikidata.org/entity/Q813
+KG,Kyrgyz som,0.692,UZ,http://www.wikidata.org/entity/Q813
+KG,Kyrgyz som,0.692,TJ,http://www.wikidata.org/entity/Q813
+KH,riel,0.593,LA,http://www.wikidata.org/entity/Q424
+KH,riel,0.593,TH,http://www.wikidata.org/entity/Q424
+KH,riel,0.593,VN,http://www.wikidata.org/entity/Q424
+KI,Kiribati dollar,0.624,US,http://www.wikidata.org/entity/Q710
+KI,Kiribati dollar,0.624,FR,http://www.wikidata.org/entity/Q710
+KI,Australian dollar,0.624,US,http://www.wikidata.org/entity/Q710
+KI,Australian dollar,0.624,FR,http://www.wikidata.org/entity/Q710
+KM,Comorian franc,0.558,FR,http://www.wikidata.org/entity/Q970
+KM,Comorian franc,0.558,TZ,http://www.wikidata.org/entity/Q970
+KM,Comorian franc,0.558,MG,http://www.wikidata.org/entity/Q970
+KM,Comorian franc,0.558,MZ,http://www.wikidata.org/entity/Q970
+KM,Comorian franc,0.558,SC,http://www.wikidata.org/entity/Q970
+KN,Eastern Caribbean dollar,0.777,GB,http://www.wikidata.org/entity/Q763
+KN,Eastern Caribbean dollar,0.777,VE,http://www.wikidata.org/entity/Q763
+KP,North Korean won,,CN,http://www.wikidata.org/entity/Q423
+KP,North Korean won,,RU,http://www.wikidata.org/entity/Q423
+KP,North Korean won,,KR,http://www.wikidata.org/entity/Q423
+KR,Korean mun,0.925,CN,http://www.wikidata.org/entity/Q884
+KR,Korean mun,0.925,KP,http://www.wikidata.org/entity/Q884
+KR,won,0.925,CN,http://www.wikidata.org/entity/Q884
+KR,won,0.925,KP,http://www.wikidata.org/entity/Q884
+KR,Korean mun,0.925,JP,http://www.wikidata.org/entity/Q884
+KR,won,0.925,JP,http://www.wikidata.org/entity/Q884
+KW,Kuwaiti dinar,0.831,IR,http://www.wikidata.org/entity/Q817
+KW,Kuwaiti dinar,0.831,IQ,http://www.wikidata.org/entity/Q817
+KW,Kuwaiti dinar,0.831,SA,http://www.wikidata.org/entity/Q817
+KZ,Kazakhstani tenge,0.811,CN,http://www.wikidata.org/entity/Q232
+KZ,Kazakhstani tenge,0.811,RU,http://www.wikidata.org/entity/Q232
+KZ,Kazakhstani tenge,0.811,UZ,http://www.wikidata.org/entity/Q232
+KZ,Kazakhstani tenge,0.811,KG,http://www.wikidata.org/entity/Q232
+KZ,Kazakhstani tenge,0.811,TM,http://www.wikidata.org/entity/Q232
+LA,Lao kip,0.607,CN,http://www.wikidata.org/entity/Q819
+LA,Lao kip,0.607,KH,http://www.wikidata.org/entity/Q819
+LA,Lao kip,0.607,MM,http://www.wikidata.org/entity/Q819
+LA,Lao kip,0.607,TH,http://www.wikidata.org/entity/Q819
+LA,Lao kip,0.607,VN,http://www.wikidata.org/entity/Q819
+LB,Lebanese pound,0.706,IL,http://www.wikidata.org/entity/Q822
+LB,Lebanese pound,0.706,SY,http://www.wikidata.org/entity/Q822
+LC,Eastern Caribbean dollar,0.715,VE,http://www.wikidata.org/entity/Q760
+LI,Swiss franc,0.935,CH,http://www.wikidata.org/entity/Q347
+LI,Swiss franc,0.935,AT,http://www.wikidata.org/entity/Q347
+LK,Sri Lankan rupee,0.782,IN,http://www.wikidata.org/entity/Q854
+LR,Liberian dollar,0.481,GN,http://www.wikidata.org/entity/Q1014
+LR,Liberian dollar,0.481,CI,http://www.wikidata.org/entity/Q1014
+LR,Liberian dollar,0.481,SL,http://www.wikidata.org/entity/Q1014
+LS,loti,0.514,ZA,http://www.wikidata.org/entity/Q1013
+LS,rand,0.514,ZA,http://www.wikidata.org/entity/Q1013
+LT,euro,0.875,SE,http://www.wikidata.org/entity/Q37
+LT,euro,0.875,PL,http://www.wikidata.org/entity/Q37
+LT,euro,0.875,RU,http://www.wikidata.org/entity/Q37
+LT,euro,0.875,BY,http://www.wikidata.org/entity/Q37
+LT,euro,0.875,LV,http://www.wikidata.org/entity/Q37
+LU,euro,0.93,BE,http://www.wikidata.org/entity/Q32
+LU,euro,0.93,FR,http://www.wikidata.org/entity/Q32
+LU,euro,0.93,DE,http://www.wikidata.org/entity/Q32
+LV,euro,0.863,SE,http://www.wikidata.org/entity/Q211
+LV,euro,0.863,LT,http://www.wikidata.org/entity/Q211
+LV,euro,0.863,RU,http://www.wikidata.org/entity/Q211
+LV,euro,0.863,BY,http://www.wikidata.org/entity/Q211
+LV,euro,0.863,EE,http://www.wikidata.org/entity/Q211
+LY,Libyan dinar,0.718,EG,http://www.wikidata.org/entity/Q1016
+LY,Libyan dinar,0.718,DZ,http://www.wikidata.org/entity/Q1016
+LY,Libyan dinar,0.718,TD,http://www.wikidata.org/entity/Q1016
+LY,Libyan dinar,0.718,TN,http://www.wikidata.org/entity/Q1016
+LY,Libyan dinar,0.718,NE,http://www.wikidata.org/entity/Q1016
+LY,Libyan dinar,0.718,SD,http://www.wikidata.org/entity/Q1016
+MA,Moroccan dirham,0.683,ES,http://www.wikidata.org/entity/Q1028
+MA,Moroccan dirham,0.683,DZ,http://www.wikidata.org/entity/Q1028
+MA,Moroccan dirham,0.683,EH,http://www.wikidata.org/entity/Q1028
+MC,euro,,FR,http://www.wikidata.org/entity/Q235
+MD,Moldovan leu,0.767,UA,http://www.wikidata.org/entity/Q217
+MD,Moldovan leu,0.767,RO,http://www.wikidata.org/entity/Q217
+ME,euro,0.832,AL,http://www.wikidata.org/entity/Q236
+ME,euro,0.832,HR,http://www.wikidata.org/entity/Q236
+ME,euro,0.832,BA,http://www.wikidata.org/entity/Q236
+ME,euro,0.832,RS,http://www.wikidata.org/entity/Q236
+ME,euro,0.832,XK,http://www.wikidata.org/entity/Q236
+MG,ariary,0.501,FR,http://www.wikidata.org/entity/Q1019
+MG,ariary,0.501,KM,http://www.wikidata.org/entity/Q1019
+MG,ariary,0.501,MZ,http://www.wikidata.org/entity/Q1019
+MG,ariary,0.501,SC,http://www.wikidata.org/entity/Q1019
+MH,SOV,0.639,US,http://www.wikidata.org/entity/Q709
+MH,SOV,0.639,NR,http://www.wikidata.org/entity/Q709
+MH,SOV,0.639,FM,http://www.wikidata.org/entity/Q709
+MH,SOV,0.639,KI,http://www.wikidata.org/entity/Q709
+MH,United States dollar,0.639,US,http://www.wikidata.org/entity/Q709
+MH,United States dollar,0.639,NR,http://www.wikidata.org/entity/Q709
+MH,United States dollar,0.639,FM,http://www.wikidata.org/entity/Q709
+MH,United States dollar,0.639,KI,http://www.wikidata.org/entity/Q709
+MK,Macedonian denar,0.77,GR,http://www.wikidata.org/entity/Q221
+MK,Macedonian denar,0.77,BG,http://www.wikidata.org/entity/Q221
+MK,Macedonian denar,0.77,AL,http://www.wikidata.org/entity/Q221
+MK,Macedonian denar,0.77,RS,http://www.wikidata.org/entity/Q221
+MK,Macedonian denar,0.77,XK,http://www.wikidata.org/entity/Q221
+ML,West African CFA franc,0.428,DZ,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,BF,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,GN,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,CI,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,MR,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,NE,http://www.wikidata.org/entity/Q912
+ML,West African CFA franc,0.428,SN,http://www.wikidata.org/entity/Q912
+MM,kyat,0.585,CN,http://www.wikidata.org/entity/Q836
+MM,kyat,0.585,IN,http://www.wikidata.org/entity/Q836
+MM,kyat,0.585,LA,http://www.wikidata.org/entity/Q836
+MM,kyat,0.585,TH,http://www.wikidata.org/entity/Q836
+MM,kyat,0.585,BD,http://www.wikidata.org/entity/Q836
+MN,Mongolian tögrög,0.739,CN,http://www.wikidata.org/entity/Q711
+MN,Mongolian tögrög,0.739,RU,http://www.wikidata.org/entity/Q711
+MR,Mauritanian ouguiya,0.556,DZ,http://www.wikidata.org/entity/Q1025
+MR,Mauritanian ouguiya,0.556,ML,http://www.wikidata.org/entity/Q1025
+MR,Mauritanian ouguiya,0.556,SN,http://www.wikidata.org/entity/Q1025
+MR,Mauritanian ouguiya,0.556,EH,http://www.wikidata.org/entity/Q1025
+MT,euro,0.918,IT,http://www.wikidata.org/entity/Q233
+MU,Mauritian rupee,0.802,FR,http://www.wikidata.org/entity/Q1027
+MU,Mauritian rupee,0.802,MV,http://www.wikidata.org/entity/Q1027
+MU,Mauritian rupee,0.802,SC,http://www.wikidata.org/entity/Q1027
+MV,Maldivian rufiyaa,0.747,GB,http://www.wikidata.org/entity/Q826
+MW,Malawian kwacha,0.512,TZ,http://www.wikidata.org/entity/Q1020
+MW,Malawian kwacha,0.512,ZM,http://www.wikidata.org/entity/Q1020
+MW,Malawian kwacha,0.512,MZ,http://www.wikidata.org/entity/Q1020
+MX,peso,0.758,US,http://www.wikidata.org/entity/Q96
+MX,peso,0.758,BZ,http://www.wikidata.org/entity/Q96
+MX,peso,0.758,GT,http://www.wikidata.org/entity/Q96
+MY,Malaysian ringgit,0.803,ID,http://www.wikidata.org/entity/Q833
+MY,Malaysian ringgit,0.803,SG,http://www.wikidata.org/entity/Q833
+MY,Malaysian ringgit,0.803,TH,http://www.wikidata.org/entity/Q833
+MY,Malaysian ringgit,0.803,BN,http://www.wikidata.org/entity/Q833
+MY,Malaysian ringgit,0.803,PH,http://www.wikidata.org/entity/Q833
+MZ,Mozambican metical,0.446,ZA,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,TZ,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,ZM,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,ZW,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,KM,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,MW,http://www.wikidata.org/entity/Q1029
+MZ,Mozambican metical,0.446,SZ,http://www.wikidata.org/entity/Q1029
+NA,Namibian dollar,0.615,ZA,http://www.wikidata.org/entity/Q1030
+NA,Namibian dollar,0.615,AO,http://www.wikidata.org/entity/Q1030
+NA,Namibian dollar,0.615,ZM,http://www.wikidata.org/entity/Q1030
+NA,Namibian dollar,0.615,BW,http://www.wikidata.org/entity/Q1030
+NA,rand,0.615,ZA,http://www.wikidata.org/entity/Q1030
+NA,rand,0.615,AO,http://www.wikidata.org/entity/Q1030
+NA,rand,0.615,ZM,http://www.wikidata.org/entity/Q1030
+NA,rand,0.615,BW,http://www.wikidata.org/entity/Q1030
+NE,West African CFA franc,0.4,DZ,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,TD,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,ML,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,BJ,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,BF,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,LY,http://www.wikidata.org/entity/Q1032
+NE,West African CFA franc,0.4,NG,http://www.wikidata.org/entity/Q1032
+NG,naira,0.535,TD,http://www.wikidata.org/entity/Q1033
+NG,naira,0.535,BJ,http://www.wikidata.org/entity/Q1033
+NG,naira,0.535,CM,http://www.wikidata.org/entity/Q1033
+NG,naira,0.535,NE,http://www.wikidata.org/entity/Q1033
+NG,naira,0.535,ST,http://www.wikidata.org/entity/Q1033
+NI,Nicaraguan córdoba,0.667,CO,http://www.wikidata.org/entity/Q811
+NI,Nicaraguan córdoba,0.667,HN,http://www.wikidata.org/entity/Q811
+NI,Nicaraguan córdoba,0.667,CR,http://www.wikidata.org/entity/Q811
+NL,euro,0.941,DE,http://www.wikidata.org/entity/Q29999
+NL,euro,0.941,VE,http://www.wikidata.org/entity/Q29999
+NL,United States dollar,0.941,BE,http://www.wikidata.org/entity/Q29999
+NL,United States dollar,0.941,FR,http://www.wikidata.org/entity/Q29999
+NL,United States dollar,0.941,DE,http://www.wikidata.org/entity/Q29999
+NL,United States dollar,0.941,VE,http://www.wikidata.org/entity/Q29999
+NL,Aruban florin,0.941,BE,http://www.wikidata.org/entity/Q29999
+NL,Aruban florin,0.941,FR,http://www.wikidata.org/entity/Q29999
+NL,Aruban florin,0.941,DE,http://www.wikidata.org/entity/Q29999
+NL,Aruban florin,0.941,VE,http://www.wikidata.org/entity/Q29999
+NL,Caribbean guilder,0.941,BE,http://www.wikidata.org/entity/Q29999
+NL,Caribbean guilder,0.941,FR,http://www.wikidata.org/entity/Q29999
+NL,Caribbean guilder,0.941,DE,http://www.wikidata.org/entity/Q29999
+NL,Caribbean guilder,0.941,VE,http://www.wikidata.org/entity/Q29999
+NL,euro,0.941,BE,http://www.wikidata.org/entity/Q29999
+NL,euro,0.941,FR,http://www.wikidata.org/entity/Q29999
+NO,Norwegian krone,0.966,FI,http://www.wikidata.org/entity/Q20
+NO,Norwegian krone,0.966,SE,http://www.wikidata.org/entity/Q20
+NO,Norwegian krone,0.966,RU,http://www.wikidata.org/entity/Q20
+NP,Nepalese rupee,0.602,CN,http://www.wikidata.org/entity/Q837
+NP,Nepalese rupee,0.602,IN,http://www.wikidata.org/entity/Q837
+NR,Australian dollar,,,http://www.wikidata.org/entity/Q697
+NU,Niue dollar,,,http://www.wikidata.org/entity/Q34020
+NU,New Zealand dollar,,,http://www.wikidata.org/entity/Q34020
+NZ,New Zealand dollar,0.937,AU,http://www.wikidata.org/entity/Q664
+OM,Omani rial,0.816,IR,http://www.wikidata.org/entity/Q842
+OM,Omani rial,0.816,YE,http://www.wikidata.org/entity/Q842
+OM,Omani rial,0.816,SA,http://www.wikidata.org/entity/Q842
+OM,Omani rial,0.816,AE,http://www.wikidata.org/entity/Q842
+PA,Panamanian balboa,0.805,US,http://www.wikidata.org/entity/Q804
+PA,Panamanian balboa,0.805,CO,http://www.wikidata.org/entity/Q804
+PA,Panamanian balboa,0.805,CR,http://www.wikidata.org/entity/Q804
+PA,United States dollar,0.805,US,http://www.wikidata.org/entity/Q804
+PA,United States dollar,0.805,CO,http://www.wikidata.org/entity/Q804
+PA,United States dollar,0.805,CR,http://www.wikidata.org/entity/Q804
+PE,Nuevo sol,0.762,BR,http://www.wikidata.org/entity/Q419
+PE,Nuevo sol,0.762,CL,http://www.wikidata.org/entity/Q419
+PE,Nuevo sol,0.762,EC,http://www.wikidata.org/entity/Q419
+PE,Nuevo sol,0.762,CO,http://www.wikidata.org/entity/Q419
+PE,Nuevo sol,0.762,BO,http://www.wikidata.org/entity/Q419
+PG,kina,0.558,ID,http://www.wikidata.org/entity/Q691
+PG,kina,0.558,AU,http://www.wikidata.org/entity/Q691
+PG,kina,0.558,SB,http://www.wikidata.org/entity/Q691
+PG,kina,0.558,FM,http://www.wikidata.org/entity/Q691
+PH,Philippine peso,0.699,JP,http://www.wikidata.org/entity/Q928
+PH,Philippine peso,0.699,CN,http://www.wikidata.org/entity/Q928
+PH,Philippine peso,0.699,ID,http://www.wikidata.org/entity/Q928
+PH,Philippine peso,0.699,PW,http://www.wikidata.org/entity/Q928
+PH,Philippine peso,0.699,MY,http://www.wikidata.org/entity/Q928
+PH,Philippine peso,0.699,TW,http://www.wikidata.org/entity/Q928
+PK,Pakistani rupee,0.544,CN,http://www.wikidata.org/entity/Q843
+PK,Pakistani rupee,0.544,IN,http://www.wikidata.org/entity/Q843
+PK,Pakistani rupee,0.544,IR,http://www.wikidata.org/entity/Q843
+PK,Pakistani rupee,0.544,AF,http://www.wikidata.org/entity/Q843
+PL,złoty,0.876,LT,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,RU,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,DE,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,BY,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,UA,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,CZ,http://www.wikidata.org/entity/Q36
+PL,złoty,0.876,SK,http://www.wikidata.org/entity/Q36
+PS,new shekel,0.715,EG,http://www.wikidata.org/entity/Q219060
+PS,new shekel,0.715,IL,http://www.wikidata.org/entity/Q219060
+PS,new shekel,0.715,JO,http://www.wikidata.org/entity/Q219060
+PT,euro,0.866,ES,http://www.wikidata.org/entity/Q45
+PW,United States dollar,0.767,ID,http://www.wikidata.org/entity/Q695
+PW,United States dollar,0.767,FM,http://www.wikidata.org/entity/Q695
+PW,United States dollar,0.767,PH,http://www.wikidata.org/entity/Q695
+PY,Paraguayan guaraní,0.717,BR,http://www.wikidata.org/entity/Q733
+PY,Paraguayan guaraní,0.717,AR,http://www.wikidata.org/entity/Q733
+PY,Paraguayan guaraní,0.717,BO,http://www.wikidata.org/entity/Q733
+QA,Qatari riyal,0.855,IR,http://www.wikidata.org/entity/Q846
+QA,Qatari riyal,0.855,SA,http://www.wikidata.org/entity/Q846
+RO,Romanian Leu,0.821,HU,http://www.wikidata.org/entity/Q218
+RO,Romanian Leu,0.821,UA,http://www.wikidata.org/entity/Q218
+RO,Romanian Leu,0.821,MD,http://www.wikidata.org/entity/Q218
+RO,Romanian Leu,0.821,BG,http://www.wikidata.org/entity/Q218
+RO,Romanian Leu,0.821,RS,http://www.wikidata.org/entity/Q218
+RS,Serbian dinar,0.802,HU,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,RO,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,BG,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,MK,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,AL,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,HR,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,BA,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,ME,http://www.wikidata.org/entity/Q403
+RS,Serbian dinar,0.802,XK,http://www.wikidata.org/entity/Q403
+RU,Russian ruble,0.822,JP,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,NO,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,US,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,FI,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,SE,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,PL,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,LT,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,CN,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,BY,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,EE,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,LV,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,UA,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,AZ,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,GE,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,KZ,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,KP,http://www.wikidata.org/entity/Q159
+RU,Russian ruble,0.822,MN,http://www.wikidata.org/entity/Q159
+RW,Rwandan franc,0.578,TZ,http://www.wikidata.org/entity/Q1037
+RW,Rwandan franc,0.578,BI,http://www.wikidata.org/entity/Q1037
+RW,Rwandan franc,0.578,CD,http://www.wikidata.org/entity/Q1037
+RW,Rwandan franc,0.578,UG,http://www.wikidata.org/entity/Q1037
+SA,Saudi riyal,0.875,EG,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,BH,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,IR,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,IQ,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,YE,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,JO,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,KW,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,OM,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,QA,http://www.wikidata.org/entity/Q851
+SA,Saudi riyal,0.875,AE,http://www.wikidata.org/entity/Q851
+SB,Solomon Islands dollar,0.564,FR,http://www.wikidata.org/entity/Q685
+SB,Solomon Islands dollar,0.564,AU,http://www.wikidata.org/entity/Q685
+SB,Solomon Islands dollar,0.564,VU,http://www.wikidata.org/entity/Q685
+SB,Solomon Islands dollar,0.564,PG,http://www.wikidata.org/entity/Q685
+SB,Solomon Islands dollar,0.564,FJ,http://www.wikidata.org/entity/Q685
+SC,Seychellois rupee,0.785,FR,http://www.wikidata.org/entity/Q1042
+SC,Seychellois rupee,0.785,TZ,http://www.wikidata.org/entity/Q1042
+SC,Seychellois rupee,0.785,KM,http://www.wikidata.org/entity/Q1042
+SC,Seychellois rupee,0.785,MG,http://www.wikidata.org/entity/Q1042
+SC,Seychellois rupee,0.785,MU,http://www.wikidata.org/entity/Q1042
+SD,Sudanese pound,0.508,EG,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,KE,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,ET,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,TD,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,CF,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,SS,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,CD,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,ER,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,LY,http://www.wikidata.org/entity/Q1049
+SD,Sudanese pound,0.508,UG,http://www.wikidata.org/entity/Q1049
+SE,Swedish krona,0.947,NO,http://www.wikidata.org/entity/Q34
+SE,Swedish krona,0.947,FI,http://www.wikidata.org/entity/Q34
+SE,Swedish krona,0.947,DK,http://www.wikidata.org/entity/Q34
+SG,Singapore dollar,0.939,ID,http://www.wikidata.org/entity/Q334
+SG,Singapore dollar,0.939,MY,http://www.wikidata.org/entity/Q334
+SI,euro,0.918,HU,http://www.wikidata.org/entity/Q215
+SI,euro,0.918,IT,http://www.wikidata.org/entity/Q215
+SI,euro,0.918,AT,http://www.wikidata.org/entity/Q215
+SI,euro,0.918,HR,http://www.wikidata.org/entity/Q215
+SK,euro,0.848,HU,http://www.wikidata.org/entity/Q214
+SK,euro,0.848,PL,http://www.wikidata.org/entity/Q214
+SK,euro,0.848,AT,http://www.wikidata.org/entity/Q214
+SK,euro,0.848,UA,http://www.wikidata.org/entity/Q214
+SK,euro,0.848,CZ,http://www.wikidata.org/entity/Q214
+SL,leone,0.477,GN,http://www.wikidata.org/entity/Q1044
+SL,leone,0.477,LR,http://www.wikidata.org/entity/Q1044
+SM,euro,0.853,IT,http://www.wikidata.org/entity/Q238
+SN,West African CFA franc,0.511,ML,http://www.wikidata.org/entity/Q1041
+SN,West African CFA franc,0.511,GM,http://www.wikidata.org/entity/Q1041
+SN,West African CFA franc,0.511,GN,http://www.wikidata.org/entity/Q1041
+SN,West African CFA franc,0.511,GW,http://www.wikidata.org/entity/Q1041
+SN,West African CFA franc,0.511,MR,http://www.wikidata.org/entity/Q1041
+SO,Somali shilling,,KE,http://www.wikidata.org/entity/Q1045
+SO,Somali shilling,,ET,http://www.wikidata.org/entity/Q1045
+SO,Somali shilling,,DJ,http://www.wikidata.org/entity/Q1045
+SR,Surinamese dollar,0.73,FR,http://www.wikidata.org/entity/Q730
+SR,Surinamese dollar,0.73,BR,http://www.wikidata.org/entity/Q730
+SR,Surinamese dollar,0.73,GY,http://www.wikidata.org/entity/Q730
+SS,South Sudanese pound,0.385,KE,http://www.wikidata.org/entity/Q958
+SS,South Sudanese pound,0.385,ET,http://www.wikidata.org/entity/Q958
+SS,South Sudanese pound,0.385,CF,http://www.wikidata.org/entity/Q958
+SS,South Sudanese pound,0.385,CD,http://www.wikidata.org/entity/Q958
+SS,South Sudanese pound,0.385,UG,http://www.wikidata.org/entity/Q958
+SS,South Sudanese pound,0.385,SD,http://www.wikidata.org/entity/Q958
+ST,São Tomé and Príncipe dobra,0.618,GQ,http://www.wikidata.org/entity/Q1039
+ST,São Tomé and Príncipe dobra,0.618,GA,http://www.wikidata.org/entity/Q1039
+ST,São Tomé and Príncipe dobra,0.618,NG,http://www.wikidata.org/entity/Q1039
+SV,Bitcoin,0.675,GT,http://www.wikidata.org/entity/Q792
+SV,Bitcoin,0.675,HN,http://www.wikidata.org/entity/Q792
+SV,United States dollar,0.675,GT,http://www.wikidata.org/entity/Q792
+SV,United States dollar,0.675,HN,http://www.wikidata.org/entity/Q792
+SX,Caribbean guilder,,FR,http://www.wikidata.org/entity/Q26273
+SX,Caribbean guilder,,MF,http://www.wikidata.org/entity/Q26273
+SY,Syrian pound,0.577,TR,http://www.wikidata.org/entity/Q858
+SY,Syrian pound,0.577,IQ,http://www.wikidata.org/entity/Q858
+SY,Syrian pound,0.577,IL,http://www.wikidata.org/entity/Q858
+SY,Syrian pound,0.577,JO,http://www.wikidata.org/entity/Q858
+SY,Syrian pound,0.577,LB,http://www.wikidata.org/entity/Q858
+SZ,lilangeni,0.597,ZA,http://www.wikidata.org/entity/Q1050
+SZ,lilangeni,0.597,MZ,http://www.wikidata.org/entity/Q1050
+TD,Central African CFA franc,0.394,CF,http://www.wikidata.org/entity/Q657
+TD,Central African CFA franc,0.394,CM,http://www.wikidata.org/entity/Q657
+TD,Central African CFA franc,0.394,LY,http://www.wikidata.org/entity/Q657
+TD,Central African CFA franc,0.394,NE,http://www.wikidata.org/entity/Q657
+TD,Central African CFA franc,0.394,NG,http://www.wikidata.org/entity/Q657
+TD,Central African CFA franc,0.394,SD,http://www.wikidata.org/entity/Q657
+TG,West African CFA franc,0.539,GH,http://www.wikidata.org/entity/Q945
+TG,West African CFA franc,0.539,BJ,http://www.wikidata.org/entity/Q945
+TG,West African CFA franc,0.539,BF,http://www.wikidata.org/entity/Q945
+TH,baht,0.8,KH,http://www.wikidata.org/entity/Q869
+TH,baht,0.8,LA,http://www.wikidata.org/entity/Q869
+TH,baht,0.8,MY,http://www.wikidata.org/entity/Q869
+TH,baht,0.8,MM,http://www.wikidata.org/entity/Q869
+TJ,Tajikistani somoni,0.685,CN,http://www.wikidata.org/entity/Q863
+TJ,Tajikistani somoni,0.685,UZ,http://www.wikidata.org/entity/Q863
+TJ,Tajikistani somoni,0.685,KG,http://www.wikidata.org/entity/Q863
+TJ,Tajikistani somoni,0.685,AF,http://www.wikidata.org/entity/Q863
+TL,East Timor centavo coins,0.607,ID,http://www.wikidata.org/entity/Q574
+TL,East Timor centavo coins,0.607,AU,http://www.wikidata.org/entity/Q574
+TL,United States dollar,0.607,ID,http://www.wikidata.org/entity/Q574
+TL,United States dollar,0.607,AU,http://www.wikidata.org/entity/Q574
+TM,Turkmenistan new manat,0.745,KZ,http://www.wikidata.org/entity/Q874
+TM,Turkmenistan new manat,0.745,UZ,http://www.wikidata.org/entity/Q874
+TM,Turkmenistan new manat,0.745,IR,http://www.wikidata.org/entity/Q874
+TM,Turkmenistan new manat,0.745,AF,http://www.wikidata.org/entity/Q874
+TN,Tunisian dinar,0.731,DZ,http://www.wikidata.org/entity/Q948
+TN,Tunisian dinar,0.731,LY,http://www.wikidata.org/entity/Q948
+TO,Tongan paʻanga,0.745,US,http://www.wikidata.org/entity/Q678
+TR,Turkish lira,0.838,GR,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,BG,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,AZ,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,GE,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,AM,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,IR,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,IQ,http://www.wikidata.org/entity/Q43
+TR,Turkish lira,0.838,SY,http://www.wikidata.org/entity/Q43
+TT,Trinidad and Tobago dollar,0.81,VE,http://www.wikidata.org/entity/Q754
+TV,Australian dollar,0.641,,http://www.wikidata.org/entity/Q672
+TV,Tuvaluan dollar,0.641,,http://www.wikidata.org/entity/Q672
+TW,New Taiwan dollar,0.911,JP,http://www.wikidata.org/entity/Q865
+TW,New Taiwan dollar,0.911,CN,http://www.wikidata.org/entity/Q865
+TW,New Taiwan dollar,0.911,PH,http://www.wikidata.org/entity/Q865
+TZ,Tanzanian shilling,0.549,KE,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,ZM,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,BI,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,CD,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,MW,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,MZ,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,UG,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,RW,http://www.wikidata.org/entity/Q924
+TZ,Tanzanian shilling,0.549,SC,http://www.wikidata.org/entity/Q924
+UA,hryvnia,0.773,HU,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,PL,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,RU,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,BY,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,SK,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,MD,http://www.wikidata.org/entity/Q212
+UA,hryvnia,0.773,RO,http://www.wikidata.org/entity/Q212
+UG,Ugandan shilling,0.525,KE,http://www.wikidata.org/entity/Q1036
+UG,Ugandan shilling,0.525,TZ,http://www.wikidata.org/entity/Q1036
+UG,Ugandan shilling,0.525,SS,http://www.wikidata.org/entity/Q1036
+UG,Ugandan shilling,0.525,CD,http://www.wikidata.org/entity/Q1036
+UG,Ugandan shilling,0.525,RW,http://www.wikidata.org/entity/Q1036
+UG,Ugandan shilling,0.525,SD,http://www.wikidata.org/entity/Q1036
+US,United States dollar,0.921,CA,http://www.wikidata.org/entity/Q30
+US,United States dollar,0.921,MX,http://www.wikidata.org/entity/Q30
+UY,Uruguayan peso,0.809,BR,http://www.wikidata.org/entity/Q77
+UY,Uruguayan peso,0.809,AR,http://www.wikidata.org/entity/Q77
+UZ,Uzbek som,0.727,KZ,http://www.wikidata.org/entity/Q265
+UZ,Uzbek som,0.727,KG,http://www.wikidata.org/entity/Q265
+UZ,Uzbek som,0.727,TJ,http://www.wikidata.org/entity/Q265
+UZ,Uzbek som,0.727,TM,http://www.wikidata.org/entity/Q265
+UZ,Uzbek som,0.727,AF,http://www.wikidata.org/entity/Q265
+VA,euro,,IT,http://www.wikidata.org/entity/Q237
+VC,Eastern Caribbean dollar,0.751,VE,http://www.wikidata.org/entity/Q757
+VE,sovereign bolivar,0.691,US,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,FR,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,GB,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,BR,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,GY,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,CO,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,TT,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,VC,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,LC,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,KN,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,GD,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,DM,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,DO,http://www.wikidata.org/entity/Q717
+VE,sovereign bolivar,0.691,NL,http://www.wikidata.org/entity/Q717
+VN,Vietnamese đồng,0.703,CN,http://www.wikidata.org/entity/Q881
+VN,Vietnamese đồng,0.703,KH,http://www.wikidata.org/entity/Q881
+VN,Vietnamese đồng,0.703,LA,http://www.wikidata.org/entity/Q881
+VU,Vanuatu vatus,0.607,AU,http://www.wikidata.org/entity/Q686
+VU,Vanuatu vatus,0.607,SB,http://www.wikidata.org/entity/Q686
+WS,Samoan tālā,0.707,US,http://www.wikidata.org/entity/Q683
+XK,euro,,MK,http://www.wikidata.org/entity/Q1246
+XK,euro,,AL,http://www.wikidata.org/entity/Q1246
+XK,euro,,ME,http://www.wikidata.org/entity/Q1246
+XK,euro,,RS,http://www.wikidata.org/entity/Q1246
+YE,Yemeni Rial,0.455,OM,http://www.wikidata.org/entity/Q805
+YE,Yemeni Rial,0.455,SA,http://www.wikidata.org/entity/Q805
+ZA,rand,0.713,ZW,http://www.wikidata.org/entity/Q258
+ZA,rand,0.713,BW,http://www.wikidata.org/entity/Q258
+ZA,rand,0.713,LS,http://www.wikidata.org/entity/Q258
+ZA,rand,0.713,MZ,http://www.wikidata.org/entity/Q258
+ZA,rand,0.713,NA,http://www.wikidata.org/entity/Q258
+ZA,rand,0.713,SZ,http://www.wikidata.org/entity/Q258
+ZM,Zambian Kwacha,0.565,AO,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,TZ,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,ZW,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,BW,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,CD,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,MW,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,MZ,http://www.wikidata.org/entity/Q953
+ZM,Zambian Kwacha,0.565,NA,http://www.wikidata.org/entity/Q953
+ZW,Zimbabwe ZiG,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwe ZiG,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwe ZiG,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwe ZiG,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,Australian dollar,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,Australian dollar,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,Australian dollar,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,Australian dollar,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,United States dollar,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,United States dollar,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,United States dollar,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,United States dollar,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwean dollar,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwean dollar,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwean dollar,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,Zimbabwean dollar,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,rand,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,rand,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,rand,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,rand,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,yen,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,yen,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,yen,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,yen,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,renminbi,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,renminbi,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,renminbi,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,renminbi,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,Indian rupee,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,Indian rupee,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,Indian rupee,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,Indian rupee,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,pound sterling,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,pound sterling,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,pound sterling,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,pound sterling,0.593,MZ,http://www.wikidata.org/entity/Q954
+ZW,euro,0.593,ZA,http://www.wikidata.org/entity/Q954
+ZW,euro,0.593,ZM,http://www.wikidata.org/entity/Q954
+ZW,euro,0.593,BW,http://www.wikidata.org/entity/Q954
+ZW,euro,0.593,MZ,http://www.wikidata.org/entity/Q954

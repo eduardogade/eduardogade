@@ -8,7 +8,7 @@ Feel free to use any of the technologies displayed here.
 
 ---------------
 
-https://github.com/eggduzao/eggduzao/tree/main/stack_overflow/challenge_15
+https://github.com/eduardogade/eduardogade/tree/main/stack_overflow/challenge_15
 
 # Section attempts
 
@@ -142,7 +142,7 @@ https://github.com/eggduzao/eggduzao/tree/main/stack_overflow/challenge_15
   <a href="https://www.buymeacoffee.com/eduardogade" target="_blank">
     <img src="https://img.shields.io/badge/☕_BUY_ME_A_COFFEE-3b82f6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff&labelColor=0f172a" alt="Buy Me A Coffee"/>
   </a>
-  <a href="https://github.com/sponsors/eggduzao" target="_blank">
+  <a href="https://github.com/sponsors/eduardogade" target="_blank">
     <img src="https://img.shields.io/badge/💰_SPONSOR-3b82f6?style=for-the-badge&logo=github-sponsors&logoColor=ffffff&labelColor=0f172a" alt="GitHub Sponsors"/>
   </a>
 </p>
@@ -313,7 +313,7 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
 ```yaml
 name: "Eduardo Gusmao"
 role: "Senior Data Engineer | Data Platform Engineer"
-contact: "Recife, Brazil | eduardogade@gmail.com | github.com/eggduzao | linkedin.com/in/eduardogade"
+contact: "Recife, Brazil | eduardogade@gmail.com | github.com/eduardogade | linkedin.com/in/eduardogade"
 languages: "English fluent | Portuguese native | Spanish B2 | German A2 | Finnish A1"
 
 education: "2x PhD in Biomedical Informatics and Data Engineering / Computational Life Sciences; BSc + MSc in Computer Science"
@@ -350,7 +350,7 @@ development_environment:
 name: "Eduardo Gusmao"
 role: "Senior Data Engineer | Data Platform Engineer | Cloud Data Engineer"
 location: "Recife, Brazil"
-contact: "eduardogade@gmail.com | github.com/eggduzao | linkedin.com/in/eduardogade"
+contact: "eduardogade@gmail.com | github.com/eduardogade | linkedin.com/in/eduardogade"
 languages: "English fluent | Portuguese native | Spanish B2 | German A2 | Finnish A1"
 
 summary: "Data Platform Engineer with 8+ years of experience designing and operating scalable data platforms, distributed data systems, and production-grade pipelines across healthcare, life sciences, and enterprise environments. Strong expertise in Python and SQL, with hands-on experience in PySpark/Spark, Kafka-style event-driven workflows, Airflow, AWS, Docker/Kubernetes, Terraform, and CI/CD to build reliable data infrastructure and platform services."
@@ -451,7 +451,7 @@ technical_strengths:
   programming:
     primary: ["Python", "SQL", "PySpark", "Spark SQL", "Bash/Shell"]
     secondary: ["Scala", "Java", "C/C++", "YAML", "HCL"]
-   : ["REST APIs", "Async programming", "Data serialization", "Production-grade software engineering", "Parquet", "JSON"]
+    concepts: ["REST APIs", "Async programming", "Data serialization", "Production-grade software engineering", "Parquet", "JSON"]
 
   data_platform_engineering:
     capabilities: ["Scalable data platforms", "Distributed data systems", "Internal data tooling", "Reusable ingestion frameworks", "Transformation layers", "Platform APIs", "Developer-facing abstractions", "Self-service data capabilities", "Analytics enablement", "ML workflow support", "BI workload support"]
@@ -553,7 +553,7 @@ github_positioning:
 ### Professional Profiles
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIn:</b> https://www.linkedin.com/in/eduardogade/
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Website & Blog:</b> https://www.gusmaolab.org
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>One-Page Resume:</b> https://www.gusmaolab.org/Gusmao-EG-CV.pdf
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>CV/Resume:</b> https://www.gusmaolab.org/CV_Eduardo_Gusmao.pdf
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Stack Overflow:</b> https://stackoverflow.com/users/32223943/eduardo-gusmao
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Medium:</b> https://medium.com/@eduardogade
 <!-- <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Dev.to:</b> https://dev.to/eduardogade
@@ -636,22 +636,22 @@ Placeholder.
 Placeholder.
 
 <p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eggduzao&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eduardogade&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
     <br>
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=eggduzao&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Eduardo's%20Most%20Used%20Languages&text_color=e8df7a">
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=eggduzao&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a">
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=eduardogade&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Eduardo's%20Most%20Used%20Languages&text_color=e8df7a">
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=eduardogade&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a">
     <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eggduzao&theme=omni&exclude={}" width="33%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eggduzao&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eggduzao&theme=omni&utcOffset=+5" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogade&theme=omni&exclude={}" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogade&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogade&theme=omni&utcOffset=+5" width="33%">
     <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eggduzao&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eggduzao&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogade&theme=omni" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardogade&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
     <p align="center">
       <img src="assets/snakegridtitle.gif" width="500" >
     </p>
-    <img src="https://raw.githubusercontent.com/eggduzao/eggduzao/snake/github-snake-dark.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/eduardogade/eduardogade/snake/github-snake-dark.svg" width="100%">
     <br>
-    <img src="https://raw.githubusercontent.com/eggduzao/eggduzao/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+    <img src="https://raw.githubusercontent.com/eduardogade/eduardogade/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
 </p>
 
 </details>

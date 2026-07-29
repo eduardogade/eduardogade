@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynarR52Co1s=",
+  "success": true,
+  "projectFilePath": "/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/SeleniumScript.csproj",
+  "expectedPackageFiles": [
+    "/Users/egg/.nuget/packages/selenium.support/4.40.0/selenium.support.4.40.0.nupkg.sha512",
+    "/Users/egg/.nuget/packages/selenium.webdriver/4.40.0/selenium.webdriver.4.40.0.nupkg.sha512",
+    "/Users/egg/.nuget/packages/selenium.webdriver.chromedriver/145.0.7632.6700/selenium.webdriver.chromedriver.145.0.7632.6700.nupkg.sha512"
+  ],
+  "logs": []
+}

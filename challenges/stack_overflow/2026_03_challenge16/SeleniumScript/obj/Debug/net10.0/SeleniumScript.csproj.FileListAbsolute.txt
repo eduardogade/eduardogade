@@ -1,0 +1,6 @@
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.csproj.AssemblyReference.cache
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.AssemblyInfoInputs.cache
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.AssemblyInfo.cs
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.csproj.CoreCompileInputs.cache
+/Users/egg/projects/eduardogade/challenges/stack_overflow/2026_03_challenge16/SeleniumScript/obj/Debug/net10.0/SeleniumScript.sourcelink.json

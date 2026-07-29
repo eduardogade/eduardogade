@@ -1,0 +1,82 @@
+"""
+Problem 1 — very easy warm-up
+
+Write a function that counts how many times each word appears in a list of words.
+
+Requirements
+	•	input: list[str]
+	•	output: dict[str, int]
+	•	if the input list is empty, return {}
+
+Example
+
+Input:
+["apple", "banana", "apple", "orange", "banana", "apple"]
+
+Output:
+{"apple": 3, "banana": 2, "orange": 1}
+
+Constraints
+	•	do not use collections.Counter
+	•	write it in a clean interview style
+	•	include type hints in the function signature
+
+Small hint on style
+
+A very good answer would likely be:
+	•	one function
+	•	one loop
+	•	one dictionary
+"""
+
+# Conversation here:
+# Ok, so let me solve the main problem first, then we think about the edge cases
+
+# This problem is interesting, if you solve by brute force - i.e. iterating and checking the appearance of each word at every different iteration - you would have an O(nm) problem, for n the total number of words and m the total number of unique words.
+# But since this problem is easy, we can think of an O(n) solution very fast: counting everything using a "counting table" - which I think I will implement with a dictionary.
+# My plan looks like this, I will break it down: Input -> Iterate -> For each element, if it exists in the return dictionary, we add +1; otherwise we add the element with a "1" count -> Then return the dictionary
+
+# The first question I would like to ask is: Is the counting case sensitive
+# <You answer yes>
+# The second question is: Can the list of words be, somehow, malformed (i.e. have an integer or other non-string type)
+# <You answer no, but can be empty>
+# Ah! Then, that's an edge case I have to handle!
+
+
+def word_counter(input_list: list[str]) -> dict[str, int]:
+
+    # Create the output object
+    out: dict[str, int] = dict()
+
+    # Verify if the list has any elements
+    if not input_list:
+        # Early exit empty dictionary according to the specification
+        return out
+
+    # Perform the main loop of the counting algorithm
+    for word in input_list:
+
+        # Verify if word is in dictionary
+        frequency = out.get(word, None)
+        if frequency is None:
+            # If it is the first appearance, add it to the dictionary
+            out[word] = 1
+            continue
+        # If not, add 1 to the frequency in the dictionary
+        out[word] += 1
+
+    # Returning the output object
+    return out
+
+# Entry point
+if __name__ == "__main__":
+
+    # Create input and output structures
+    input_list: list[str] = ["apple", "banana", "apple", "orange", "banana", "apple"]
+    output_dict: dict[str, int]
+
+    # Function call
+    output_dict = word_counter(input_list)
+
+    # Display result
+    print(output_dict)

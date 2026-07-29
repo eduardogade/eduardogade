@@ -1,0 +1,137 @@
+"""
+Problem 2 — grouping (very realistic)
+
+Group words by their first letter.
+
+Example
+
+Input:
+["apple", "banana", "avocado", "blueberry", "cherry"]
+
+Output:
+{
+    "a": ["apple", "avocado"],
+    "b": ["banana", "blueberry"],
+    "c": ["cherry"]
+}
+
+Requirements:
+	•	dict[str, list[str]]
+	•	preserve original order
+	•	assume all strings are non-empty
+	•	lowercase letters only (no need to normalize)
+
+⸻
+
+Same rules:
+	•	clean
+	•	type hints
+	•	talk through it
+"""
+
+# Conversation here:
+# Ok, so let me:
+# - Understand the problem
+# - Try to solve the main problem first
+# - Then we think about the edge cases
+
+# But first, I have some questions I would like to ask. The first is: Is the grouping case sensitive for the input words?
+# <You answer: no, saying that all must be lowercase>
+# Uhm, then the second question is: Can the list of words be, somehow, malformed (i.e. have an integer or other non-string type)
+# <You answer: no non-string, but can be empty, have uppercase/ASCII as first symbol, and present BOM, dyacritics and newline/space that needs to be removed>
+# Ah! Then, that's a critical cleaning step I have to implement!
+# But, one last question:
+# What if there is the same word repeated, before or after cleaning, should it be in the output?
+# <You say: no! The output must consist of unique words>
+
+# This problem is interesting, if you solve by brute force - i.e. iterating and checking the appearance of each "initial" at every different iteration - you would have an O(nm) problem, for n the total number of words and m the total number of different initials.
+# Even worst if you try to check for existing strings every iteration, than it would have an additional m-loop that can be n in worst case, so O(mn^2)!
+# But since this problem is still fairly easy, we can think of an O(n) solution very fast: grouping initials using a "grouping table" - which I think I will implement as a dictionary of lists (since the size is initially unknown, we need a mutable object).
+# Plus we can have a O(1) lookup hashmap for similar words. This will consume more memory, but will dramatically speed the algorithm. Such a hashmap can be implemented using a simple dictionary mapping words to 'True'.
+
+# My plan looks like this, I will break it down: Input -> Iterate -> For each element -> Clean element -> Verify if it is a duplicate, if not move to... -> if it exists in the return dictionary of lists, we append it; otherwise we add a new vector -> Then return the dictionary
+
+
+# ----- Constants -----
+
+# I "cheated" and look this up because I haven't memorized
+_BOMS: Final[tuple[str, ...]] = (
+    "\ufeff",
+)
+
+# I "cheated" and look this up because I haven't memorized
+_LINE_SEPARATORS: Final[tuple[str, ...]] = (
+    "\r\n", "\n", "\r",
+    "\u2028", "\u2029",
+    " ", "\t",
+)
+
+_ALL_DIACRYTICS: Final[tuple[str, ...]] = (
+    "\ufeff",
+    "\r\n", "\n", "\r",
+    "\u2028", "\u2029",
+    " ", "\t",
+)
+
+
+# ----- Functions -----
+
+def clean_word(word: str) -> str:
+    """
+    - Removes BOMs.
+    - Removes newline-like symbols.
+    """
+    new_word: str = ""
+
+    # Remove BOM only at the beginning
+    new_word = "".join([char for char in word if char not in _ALL_DIACRYTICS])
+
+    return new_word
+
+
+def word_groupping(input_list: list[str]) -> dict[str, list[str]]:
+    """
+    1. Create output and helper elements.
+    2. Iterates on input.
+    3. Clean input word.
+    4. Verify identicals with hashmap.
+    5. Append cleaned word to dictionary if new.
+    """
+
+    grouped_dict: dict[str, list[str]] = dict()
+
+	# Helper hashmap
+    helper_hashmap: dict[str, bool] = dict()
+
+    for word in input_list:
+
+        # Clean
+        cleaned_word = clean_word(word.lower())
+        if not cleaned_word:
+            continue # Needed since it may return an empty string and further ops require a string
+
+        # Verify if word is in hashmap
+        if helper_hashmap.get(cleaned_word, None):
+            continue
+        helper_hashmap[cleaned_word] = True
+
+        initial = cleaned_word[0]
+        grouped_dict[initial] = grouped_dict.get(initial, []).append(cleaned_word)
+
+    # Returning the output object
+    return grouped_dict
+
+
+# ----- Entry point -----
+
+if __name__ == "__main__":
+
+    # Create input and output structures
+    input_list: list[str] = ["apple", "banana", "avocado", "blueberry", "cherry"]
+    output_dict: dict[str, list[str]]
+
+    # Function call
+    output_dict = word_groupping(input_list)
+
+    # Display result
+    print(output_dict)

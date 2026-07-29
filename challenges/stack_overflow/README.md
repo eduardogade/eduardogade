@@ -58,8 +58,8 @@ No heavy setup. No frameworks. No surprises.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/eggduzao/eggduzao.git
-cd eggduzao
+git clone https://github.com/eduardogade/eduardogade.git
+cd eduardogade
 ```
 
 ### 2. (Optional) Create a virtual environment
