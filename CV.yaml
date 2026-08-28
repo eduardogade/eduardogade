@@ -1,0 +1,403 @@
+Name: Eduardo G Gusmao
+Role: Senior Machine Learning Researcher | Applied Scientist
+Contact: eduardo@gusmaolab.org | English, Portuguese, German, Spanish
+
+Summary: Senior Research Engineer with 9+ years of experience building scalable ML systems for genomics, multi-omics, and biomedical data, bridging research prototypes and production-grade pipelines across large clinical datasets.
+
+Core_Expertise:
+  - "Data Platforms"
+  - "ETL/ELT Pipelines"
+  - "Machine Learning"
+  - "Deep Learning"
+  - "Statistical Modeling"
+  - "Bioinformatics"
+
+Career_Profile:
+  - "Data Engineering"
+  - "Data Platform Engineering"
+  - "Method Development"
+  - "Translational Modeling"
+  - "Production-Aware Research"
+
+Professional_Engagements:
+
+  "Brazilian Ministery of Health":
+    - Title: Senior Data Engineer
+    - Date: 01-Sep-2022 - Present
+    - Type: On-Site, Hybrid
+    - Location: Brazil
+    - Role_&_Scope_OLD:
+      - Lead a multidisciplinary phenotype + EHR AI initiative within a national-scale precision-medicine program spanning Germany and Brazil, defining technical direction, delivery cadence, and quality standards.
+      - Coordinate a distributed team of clinicians, biologists, and ML engineers to design, implement, and operate AI-assisted ETL, harmonization, and data-quality pipelines for heterogeneous real-world clinical data.
+      - Architect end-to-end workflows across Python, R, SQL/NoSQL, HPC clusters (SLURM/OpenPBS), and containerized deployments (Docker/Kubernetes), with reproducible environments, automated testing, and CI/CD release governance.
+      - Act as the primary technical interface across medical, biological, and computational stakeholders, translating clinical and research requirements into production-grade specifications and maintainable system components.
+      - xxx
+      - Designed and delivered an end-to-end spatial single-cell RNA-seq analysis platform, spanning laboratory inputs, scalable computation, and user-facing analytical outputs.
+      - Led a senior team of bioinformaticians and computer scientists to develop and validate deep-learning-based evaluation frameworks for complex biological signals.
+      - Orchestrated heterogeneous production stacks across Python, Docker, JavaScript, and GPU-enabled HPC clusters into a unified, reproducible workflow.
+    - Key_Outcomes_OLD:
+      - Delivered a production-ready, end-to-end pipeline in under 6 months, achieving strong internal adoption across collaborating research groups.
+      - Enabled methodological advances supporting T/NK-cell cancer immunotherapy research through robust spatial and single-cell modeling frameworks.
+      - Awarded Venia Docendi (Docentship) following extensive teaching, independent evaluation, and demonstrated academic leadership.
+      - xxx
+      - Delivered the core platform approximately 8 months ahead of schedule, unblocking early model training, stakeholder validation, and phased rollout to downstream teams.
+      - Achieved multi-order-of-magnitude throughput improvements over prior lab-bound workflows through schema standardization, automated validation, and optimized HPC execution.
+      - Enabled large-scale genotype-phenotype analyses across tens of thousands of individuals by providing harmonized feature stores, provenance tracking, and analysis-ready datasets for precision-medicine studies.
+    - Summary:
+      - I work as a Senior Data Engineer, bridging an initiative between Brazil & Finland.
+      - Leading data architecture and engineering for a national-scale healthcare data platform, bridging a Brazil+Finland initiative, supporting 60K+ participants across Brazil and international partners.
+    - Data_Engineering_&_Pipeline_Development:
+      - Designed and maintained distributed data pipelines for genomic, clinical, and imaging datasets in a large-scale precision medicine program
+      - Built ETL/ELT workflows for heterogeneous data using Python, SQL, and columnar formats (e.g., Parquet)
+      - Developed ingestion and transformation services integrating structured and semi-structured data via API-based architectures
+      - Implemented feature engineering layers enabling large-scale genotype-phenotype analysis
+    - Data_Platform_&_Infrastructure:
+      - Architected and delivered a cloud-enabled data platform integrating EHR and multi-omics data (WGS, RNA-seq, spatial)
+      - Defined data models and scalable processing workflows across clinical, bioinformatics, and engineering teams
+      - Implemented data validation, schema harmonization, and quality pipelines aligned with regulatory and FAIR standards
+      - Established CI/CD workflows using GitHub Actions, automated testing, and containerized deployments
+    - Impact:
+      - Delivered a production-ready data platform ~6 months ahead of schedule
+      - Automated ingestion, validation, and harmonization pipelines across 19 laboratories
+      - Reduced storage footprint by ~80% while improving processing latency to <1 minute
+      - Achieved high accuracy (~98.7%) in large-scale genotype-phenotype data modeling workflows
+
+  "Turku Biosciences":
+    - Title: Senior Data Engineer
+    - Date: 01-Sep-2022 - Present
+    - Type: On-Site, Hybrid
+    - Locztion: Turku, Finland
+    - Summary:
+      - I work as a Senior Data Engineer, bridging an initiative between Brazil & Finland.
+      - Leading development of data and ML-driven systems for large-scale biological datasets, supporting multidisciplinary teams across bioinformatics, biology, and data science.
+    - Data_Engineering_&_Pipeline_Development:
+      - Designed and maintained data pipelines for genomic, transcriptomic, and spatial datasets, enabling scalable downstream analysis
+      - Built data processing workflows transforming raw biological data into structured, analysis-ready data marts
+      - Developed distributed and GPU-enabled data processing pipelines for high-dimensional imaging and spatial data
+      - Implemented orchestration and workflow management using Airflow, containerized environments, and HPC (SLURM)
+    - Data_Systems_&_Infrastructure:
+      - Designed reproducible and scalable data environments using Python, containerization (Docker), and distributed compute resources
+      - Defined data structures and processing frameworks for heterogeneous multi-omics datasets
+      - Led integration of multiple data modalities into unified, harmonized data layers for downstream analytics and modeling
+      - Collaborated with cross-functional teams to align data engineering workflows with research and analytical requirements
+    - Impact:
+      - Improved throughput of large-scale data pipelines through GPU acceleration and optimized distributed workflows
+      - Increased processing performance of spatial and imaging pipelines (e.g., 15 -> 60 FPS) while improving model fidelity
+      - Developed high-performance data processing approaches achieving state-of-the-art accuracy with significantly reduced computational cost
+
+  "Göttingen General Hospital":
+    - Title: Data Engineer II
+    - Date: 01-Mar-2019 - 30-Sep-2022
+    - Type: On-Site
+    - Locztion: Göttingen, Niedersachsen, Germany
+    - Role_&_Scope_OLD:
+      - Developed integrated computational pipelines supporting CRISPR-based immunotherapy target discovery in collaboration with Harvard, MGH, and the Broad Institute.
+      - Built deep-learning models for tumor microenvironment modeling and biomarker discovery, increasing screening throughput by ~40%.
+      - Reduced experimental costs by >60% through computational prioritization of high-confidence targets.
+      - Contributed to target discovery efforts that advanced into late-stage clinical development, including programs later commercialized as Opdualag (Relatlimab + Nivolumab).
+    - Summary:
+      - Built and scaled data platforms and pipelines supporting biomedical and regulatory genomics projects within a large medical center, focusing on transforming fragmented workflows into reliable, reproducible data systems.
+    - Data_Engineering_&_Platforms:
+      - Designed and implemented scalable ETL/ELT pipelines using Python, SQL, Airflow, and columnar formats
+      - Consolidated fragmented ingestion and preprocessing into automated pipelines with schema validation and reproducible processing
+      - Built modular, containerized data processing services (Docker) supporting batch and large-scale workflows
+      - Developed reusable data frameworks and standardized pipelines adopted by 25+ research teams
+    - Data_Infrastructure_&_Operations:
+      - Built and maintained data infrastructure using PostgreSQL, MongoDB, and Redis for metadata, tracking, and low-latency access
+      - Implemented batch data processing workflows on HPC clusters (SLURM) for large-scale feature engineering
+      - Introduced observability (metrics, monitoring, tracing) using Prometheus and Grafana
+      - Improved reproducibility through containerization, automated validation, and structured logging
+    - Applied_Data_Workflows:
+      - Developed end-to-end data pipelines supporting downstream analytics and modeling for genomic datasets
+      - Implemented reproducible workflows integrating preprocessing, transformation, and evaluation
+      - Supported statistical validation and benchmarking of data-driven workflows
+    - Impact:
+      - Increased data throughput by ~50-60% by replacing manual processes with automated pipelines
+      - Reduced data redundancy and improved pipeline reliability across teams
+      - Improved team efficiency by ~40% through standardization and automation
+      - Contributed to adoption of data platforms and BI tooling across the organization
+
+  "Dana-Farber Cancer Institute":
+    - Title: Data Engineer I
+    - Date: 01-Jan-2016 - 31-Mar-2019
+    - Type: On-Site
+    - Location: Boston, MA, USA
+    - Role_&_Scope_OLD:
+      - Unified fragmented ETL and data-quality processes into a single automated platform, establishing reliable ingestion, validation, and auditability across heterogeneous biomedical datasets.
+      - Eliminated redundant and unsafe data flows through systematic automation, schema validation, and defensive pipeline design.
+      - Built and co-maintained internal data and analytics frameworks using Python and multi-model database systems to support scalable research and operational workloads.
+      - Developed integrated computational and experimental pipelines supporting CRISPR-based target discovery for cancer immunotherapy.
+      - Co-authored and maintained strategic bioinformatics tools adopted in hospital and translational research settings.
+      - Collaborated across major academic and clinical institutions, including Harvard T.H. Chan, Massachusetts General Hospital, and the Broad Institute, aligning computational analyses with clinical and experimental priorities.
+    - Key_Outcomes_OLD:
+      - Delivered ~60% productivity gains across data-processing workflows by reducing manual intervention and pipeline fragmentation.
+      - Reduced wet-lab material consumption and operational costs through earlier error detection, reproducible preprocessing, and tighter data-experiment feedback loops.
+      - Led technical and outreach initiatives during the COVID period, supporting institutional response and cross-team coordination.
+      - Contributed to target-discovery efforts supporting LAG-3-based immunotherapy programs, which advanced into Phase II/III clinical trials with reported objective response rates (ORR) >50% and complete responses (CR) in ~16% of patients.
+      - Work contributed to intellectual property later licensed as Relatlimab-rmbw, acquired by Bristol Myers Squibb for approximately USD 3.5M.
+      - Contributed to the development of Relatlimab (commonly combined with Nivolumab), now approved and marketed as Opdualag, supporting improved outcomes for patients with advanced cancers.
+    - Summary:
+      - Built cloud-based data pipelines and platforms supporting large-scale oncology and immunotherapy research within the Harvard Medical School ecosystem.
+    - Data_Engineering_&_Pipelines:
+      - Developed large-scale data processing pipelines for multi-omics datasets using Python, SQL, and Spark
+      - Built modular data transformation and feature engineering workflows to standardize heterogeneous datasets across multiple institutions
+      - Designed reproducible, containerized workflows (Docker, Kubernetes) integrated with distributed compute environments (Spark/Databricks)
+      - Implemented data ingestion, transformation, and validation pipelines to support reliable downstream analytics
+    - Data_Systems_&_Infrastructure:
+      - Designed scalable data platforms integrating genomic, clinical, and experimental datasets
+      - Built distributed data processing workflows leveraging cloud and HPC environments
+      - Established reproducible environments and version-controlled pipelines for collaborative development
+      - Supported large-scale data modeling and preparation for analytical and machine learning workflows
+    - Cross-Functional_Collaboration:
+      - Worked closely with clinicians, biologists, and data scientists to translate domain requirements into data pipelines and structured datasets
+      - Introduced structured development practices and iterative workflows into computational projects
+      - Contributed to data systems supporting biomarker discovery and target identification
+    - Impact:
+      - Increased CRISPR screening throughput by ~40% through improved data processing and prioritization workflows
+      - Reduced experimental costs by >60% by enabling data-driven target selection
+      - Accelerated research pipelines by up to 12× through scalable data systems and automation
+      - Contributed to the development of LAG-3-based immunotherapy approaches through robust data infrastructure
+
+Education:
+  - Dosentti: 11-10-2024
+  - PhD2: 01-Sep-2013 - 30-Apr-2017 | Harvard Medical School (Boston, USA) | Biomedical Informatics | Summa Cum Laude
+  - PhD1: 01-Aug-2011 - 31-Aug-2015 | RWTH Aachen University (Aachen, Germany) | Life Sciences | Summa Cum Laude
+  - MSc: 01-Jan-2010 - 30-Aug-2011 | Federal University of Pernambuco (Recife, Brazil) | Machine & Deep Learning | Grade 100%
+  - BSc: 01-Oct-2008 - 03-Mar-2011 | Federal University of Pernambuco (Recife, Brazil) | Computer Science | Grade 89.90%
+
+Development_Environment:
+  - Hardware: ["AMD", "ARM", "NVIDIA", "Intel"]
+  - OS: ["MAC OS X", "Ubuntu", "Debian", "Fedora", "Windows"]
+  - Infrastructure:
+    - "Bare-Metal Servers"
+    - "VMs"
+    - Cloud_Computing: ["AWS", "GCP", "Azure"]
+    - HPC_Paradigm: ["Slurm", "OpenPBS", "MPI"]
+    - Infra_as_Code: ["Terraform", "CloudFormation", "Pulumi"]
+
+  - Languages:
+    - Multi_Paradigm: ["Python", "C/C++", "R", "Bash/Shell", "Julia", "Go", "Rust", "Kotlin"]
+    - Web_OO: ["TypeScript", "Java", "Javascript", "C#", "Ruby", "PHP"]
+    - Markup: ["YAML", "Quarto", "LaTeX", "HTML/CSS/Markdown"]
+    - Declarative: ["SQL", "HCL"]
+  - Runtimes: ["CPython", "JVM", "Node.js"]
+
+  - ML_Stack:
+    - Frameworks: ["PyTorch", "JAX", "TensorFlow", "Keras", "Hugging Face", "NLTK", "Scikit-Learn"]
+    - Engines: ["Spark", "Ray", "TensorRT"]
+    - Models: ["Generative Models", "Variational Inference", "Graph Neural Networks", "Attention Hypergraph"]
+
+  - Data_Stack:
+    - Databases:
+      - SQL: ["PostgreSQL", "MySQL"]
+      - NoSQL: ["MongoDB", "Arangodb", "Databricks"]
+      - Vector: ["Pinecone", "FAISS"]
+    - APIs: ["REST", "GraphQL", "gRPC"]
+    - Data_Software: ["Power BI", "Microsoft Suite", "HDF5/Parquet/Zarr"]
+    - Data_Tools:
+      - Basic: ["Pandas", "NumPy", "Scipy", "Bioconductor", "PySAM"]
+      - Big_Data: ["Dask", "Polars"]
+      - Specialized: ["PyCaret", "OpenCV"]
+
+  - Web_Stack:
+    - Frameworks: ["Django", "React", "Next.js", "Express.js"]
+    - Dashboards: ["Dash", "Streamlit", "Gradio"]
+
+  - Systems:
+    - Version_Control: ["Git", "Github"]
+    - Packaging: ["pip", "(micro)mamba", "(mini)conda", "poetry", "npm"]
+    - Containers: ["Docker", "Singularity", "Podman"]
+    - Orchestration: ["Kubernetes", "Helm"]
+    - CI_CD: ["GitHub Actions", "Jenkins", "GitLab CI"]
+    - Observability: ["Prometheus", "Grafana"]
+
+# Name: Eduardo G Gusmao
+# Role: Senior Machine Learning Researcher | Applied Scientist
+# Contact: eduardo@gusmaolab.org | English, Portuguese
+# Education: 2 x PhD | Machine Learning & Precision Medicine
+# Research_Profile: 8+ years experience on Translational & Production-Aware Method Development
+
+# Professional_Engagements:
+#   Technical University of Munich:
+#     - Title: Senior Machine Learning Researcher
+#     - Date: Apr 2024 - Current
+#     - "Role & Scope":
+#       - Lead a multi-disciplinary phenotype & EHR AI initiative.
+#       - Coordinate a distributed team of biologists, computer engineers and clinicians.
+#       - Establish cross-team workflows.
+#       - Act as technical translator between scientists and stakeholders.
+#     - "Key Outcomes":
+#       - Delivered core system ~8 months ahead of schedule.
+#       - System performance improvements measured in orders of magnitude over prior lab-bound workflows.
+#       - Contributed to large-scale genotype-phenotype analyses across tens of thousands of individuals.
+
+# Development_Environment:
+#   - Infrastructure: AWS | HPC | GCP
+#   - Languages: Python | SQL | C/C++ | R | Bash/Shell
+#   - MLStack: PyTorch | TensorFlow | JAX | Spark | Grafana
+#   - DataStack: PostgreSQL | MongoDB | Pinecone | REST/GraphQL | Pandas
+#   - SysOps: (Micro)Mamba | Docker | Kubernetes | GH Actions | Prometheus
+
+# Name: Eduardo G Gusmao
+# Role: Senior Machine Learning Researcher | Applied Scientist
+# Contact: eduardo@gusmaolab.org | English, Portuguese, German, Spanish
+
+# Summary: Senior Research Engineer with 8+ years of experience building scalable ML systems for genomics, multi-omics, and biomedical data, bridging research prototypes and production-grade pipelines across large clinical datasets.
+
+# Core_Expertise:
+#   - "Machine Learning"
+#   - "Deep Learning"
+#   - "Statistical Modeling"
+#   - "Bioinformatics"
+
+# Career_Profile:
+#   - "Method Development"
+#   - "Translational Modeling"
+#   - "Production-Aware Research"
+
+# Professional_Engagements:
+
+#   "Technical University of Munich":
+#     - Title: Senior Machine Learning Researcher
+#     - Date: Apr 2024 - Current
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Lead a multidisciplinary phenotype + EHR AI initiative within a national-scale precision-medicine program spanning Germany and Brazil, defining technical direction, delivery cadence, and quality standards.
+#       - Coordinate a distributed team of clinicians, biologists, and ML engineers to design, implement, and operate AI-assisted ETL, harmonization, and data-quality pipelines for heterogeneous real-world clinical data.
+#       - Architect end-to-end workflows across Python, R, SQL/NoSQL, HPC clusters (SLURM/OpenPBS), and containerized deployments (Docker/Kubernetes), with reproducible environments, automated testing, and CI/CD release governance.
+#       - Act as the primary technical interface across medical, biological, and computational stakeholders, translating clinical and research requirements into production-grade specifications and maintainable system components.
+#     - Key_Outcomes:
+#       - Delivered the core platform approximately 8 months ahead of schedule, unblocking early model training, stakeholder validation, and phased rollout to downstream teams.
+#       - Achieved multi-order-of-magnitude throughput improvements over prior lab-bound workflows through schema standardization, automated validation, and optimized HPC execution.
+#       - Enabled large-scale genotype-phenotype analyses across tens of thousands of individuals by providing harmonized feature stores, provenance tracking, and analysis-ready datasets for precision-medicine studies.
+
+#   "University of Turku":
+#     - Title: Senior Machine Learning Engineer
+#     - Date: Mar 2022 - Apr 2024
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Designed and delivered an end-to-end spatial single-cell RNA-seq analysis platform, spanning laboratory inputs, scalable computation, and user-facing analytical outputs.
+#       - Led a senior team of bioinformaticians and computer scientists to develop and validate deep-learning-based evaluation frameworks for complex biological signals.
+#       - Orchestrated heterogeneous production stacks across Python, Docker, JavaScript, and GPU-enabled HPC clusters into a unified, reproducible workflow.
+#     - Key_Outcomes:
+#       - Delivered a production-ready, end-to-end pipeline in under 6 months, achieving strong internal adoption across collaborating research groups.
+#       - Enabled methodological advances supporting T/NK-cell cancer immunotherapy research through robust spatial and single-cell modeling frameworks.
+#       - Awarded Venia Docendi (Docentship) following extensive teaching, independent evaluation, and demonstrated academic leadership.
+
+#   "Göttingen University Medical School":
+#     - Title: Senior Bioinformatics & Machine Learning Engineer
+#     - Date: Jan 2020 - Mar 2022
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Unified fragmented ETL and data-quality processes into a single automated platform, establishing reliable ingestion, validation, and auditability across heterogeneous biomedical datasets.
+#       - Eliminated redundant and unsafe data flows through systematic automation, schema validation, and defensive pipeline design.
+#       - Built and co-maintained internal data and analytics frameworks using Python and multi-model database systems to support scalable research and operational workloads.
+#     - Key_Outcomes:
+#       - Delivered ~60% productivity gains across data-processing workflows by reducing manual intervention and pipeline fragmentation.
+#       - Reduced wet-lab material consumption and operational costs through earlier error detection, reproducible preprocessing, and tighter data-experiment feedback loops.
+#       - Led technical and outreach initiatives during the COVID period, supporting institutional response and cross-team coordination.
+
+#   "Dana-Farber Cancer Institute":
+#     - Title: Senior Bioinformatics Scientist
+#     - Date: Jan 2018 - Jan 2020
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Developed integrated computational and experimental pipelines supporting CRISPR-based target discovery for cancer immunotherapy.
+#       - Co-authored and maintained strategic bioinformatics tools adopted in hospital and translational research settings.
+#       - Collaborated across major academic and clinical institutions, including Harvard T.H. Chan, Massachusetts General Hospital, and the Broad Institute, aligning computational analyses with clinical and experimental priorities.
+#     - Key_Outcomes:
+#       - Contributed to target-discovery efforts supporting LAG-3-based immunotherapy programs, which advanced into Phase II/III clinical trials with reported objective response rates (ORR) >50% and complete responses (CR) in ~16% of patients.
+#       - Work contributed to intellectual property later licensed as Relatlimab-rmbw, acquired by Bristol Myers Squibb for approximately USD 3.5M.
+#       - Contributed to the development of Relatlimab (commonly combined with Nivolumab), now approved and marketed as Opdualag, supporting improved outcomes for patients with advanced cancers.
+
+#   "Harvard T.H. Chan School of Public Health":
+#     - Title: Machine Learning Researcher
+#     - Date: Jun 2015 - Jan 2018
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Applied deep-learning methods to tumor microenvironment modeling and immunotherapy response prediction, integrating experimental and computational signals.
+#       - Introduced agile development practices (Scrum-style iteration, backlog prioritization, reproducible milestones) into computational research workflows.
+#       - Developed and operated Python-based machine-learning pipelines on HPC infrastructure, supporting large-scale model training and evaluation.
+#     - Key_Outcomes:
+#       - Authored a novel deep-learning-based immunotherapy biomarker that increased effective CRISPR/Cas9 screening throughput by ~40% through improved off-target filtering.
+#       - Reduced wet-lab experimentation costs by over 60% by computationally prioritizing high-confidence targets ahead of experimental validation.
+#       - Enabled the study of multiple novel immunotherapy targets (including LAG-3, B7-H3/BCMA, and CD3), establishing a computational foundation for subsequent NK-cell-focused immunotherapy research.
+
+#   "RWTH Aachen University":
+#     - Title: Machine Learning Researcher
+#     - Date: Sep 2011 - Jun 2015
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Conducted machine-learning and deep-learning research using Python-based pipelines and HPC infrastructure to address large-scale biomedical and regulatory genomics problems.
+#       - Designed, trained, optimized, and maintained ML/DL models using reproducible, performance-aware best practices across the full model lifecycle.
+#       - Authored and maintained a comprehensive regulatory genomics and epigenomics analysis framework supporting large-scale integrative studies.
+#     - Key_Outcomes:
+#       - Developed a bias-reduction and training-optimization framework that reduced model training time by ~20% without performance degradation.
+#       - Co-authored evaluation tooling that improved model performance by ~5% (AUPRC), supported by robust statistical comparison using Friedman-Nemenyi post-hoc testing.
+#       - Introduced production-grade experiment monitoring (Prometheus, Grafana), increasing team visibility and improving overall productivity by ~30%.
+#       - Delivered regular deep-learning seminars with sustained participation, consistently positive feedback, and zero course drop-out.
+
+#   "Informatics Center (CIn/UFPE)":
+#     - Title: Machine Learning Engineer
+#     - Date: Oct 2007 - Sep 2011
+#     - Type: On-Site
+#     - Role_&_Scope:
+#       - Built and operated machine-learning pipelines and ETL preprocessing workflows on a self-hosted HPC cluster, supporting data-intensive research workloads.
+#       - Designed and implemented a robust ETL backbone (pre-cloud / pre-AWS) that established durable data-ingestion and preprocessing standards adopted across research groups.
+#       - Introduced cluster-wide monitoring and observability using Prometheus and Grafana, and delivered hands-on training sessions adopted by multiple teams.
+#     - Key_Outcomes:
+#       - Increased lab productivity by ~50% and processing throughput by ~30% by introducing Scrum-based planning and execution into technical workflows.
+#       - Co-authored data-handling protocols that reduced data leakage and redundancy by ~35%.
+#       - Reduced unsafe and cyclic ETL patterns by ~45% through systematic automation, validation, and pipeline restructuring.
+
+# Education:
+#   - PhD2: 2015 - 2018 | Harvard University Medical School (Boston, USA) | Biomedical Informatics | Summa Cum Laude
+#   - PhD1: 2011 - 2015 | RWTH Aachen University (Aachen, Germany) | Life Sciences | Summa Cum Laude
+#   - MSc: 2010 - 2011 | Federal University of Pernambuco (Recife, Brazil) | Machine & Deep Learning | Grade 100%
+#   - BSc: 2006 - 2010 | Federal University of Pernambuco (Recife, Brazil) | Computer Science | Grade 89.90%
+
+# Development_Environment:
+#   - Hardware: ["AMD", "ARM", "NVIDIA", "Intel"]
+#   - OS: ["MAC OS X", "Ubuntu", "Debian", "Fedora", "Windows"]
+#   - Infrastructure:
+#     - "Bare-Metal Servers"
+#     - "VMs"
+#     - Cloud_Computing: ["AWS", "GCP", "Azure"]
+#     - HPC_Paradigm: ["Slurm", "OpenPBS", "MPI"]
+#     - Infra_as_Code: ["Terraform", "CloudFormation", "Pulumi"]
+
+#   - Languages:
+#     - Multi_Paradigm: ["Python", "C/C++", "R", "Bash/Shell", "Julia", "Go", "Rust", "Kotlin"]
+#     - Web_OO: ["TypeScript", "Java", "Javascript", "C#", "Ruby", "PHP"]
+#     - Markup: ["YAML", "Quarto", "LaTeX", "HTML/CSS/Markdown"]
+#     - Declarative: ["SQL", "HCL"]
+#   - Runtimes: ["CPython", "JVM", "Node.js"]
+
+#   - ML_Stack:
+#     - Frameworks: ["PyTorch", "JAX", "TensorFlow", "Keras", "Hugging Face", "NLTK", "Scikit-Learn"]
+#     - Engines: ["Spark", "Ray", "TensorRT"]
+#     - Models: ["Generative Models", "Variational Inference", "Graph Neural Networks", "Attention Hypergraph"]
+
+#   - Data_Stack:
+#     - Databases:
+#       - SQL: ["PostgreSQL", "MySQL"]
+#       - NoSQL: ["MongoDB", "Arangodb", "Databricks"]
+#       - Vector: ["Pinecone", "FAISS"]
+#     - APIs: ["REST", "GraphQL", "gRPC"]
+#     - Data_Software: ["Power BI", "Microsoft Suite", "HDF5/Parquet/Zarr"]
+#     - Data_Tools:
+#       - Basic: ["Pandas", "NumPy", "Scipy", "Bioconductor", "PySAM"]
+#       - Big_Data: ["Dask", "Polars"]
+#       - Specialized: ["PyCaret", "OpenCV"]
+
+#   - Web_Stack:
+#     - Frameworks: ["Django", "React", "Next.js", "Express.js"]
+#     - Dashboards: ["Dash", "Streamlit", "Gradio"]
+
+#   - Systems:
+#     - Version_Control: ["Git", "Github"]
+#     - Packaging: ["pip", "(micro)mamba", "(mini)conda", "poetry", "npm"]
+#     - Containers: ["Docker", "Singularity", "Podman"]
+#     - Orchestration: ["Kubernetes", "Helm"]
+#     - CI_CD: ["GitHub Actions", "Jenkins", "GitLab CI"]
+#     - Observability: ["Prometheus", "Grafana"]

@@ -157,11 +157,11 @@ https://github.com/eduardogade/eduardogade/tree/main/stack_overflow/challenge_15
 | -->
 <a id="home"></a>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2537,100:10344a&height=280&section=header&text=EDUARDO%20GADE%20GUSMAO&fontSize=62&fontColor=e9eef2&animation=fadeIn&fontAlignY=35&desc=MACHINE%20LEARNING%20RESEARCHER%20%20%20%20•%20%20%20%20BIOINFORMATICS%20PROJECT%20MANAGER&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2537,100:10344a&height=280&section=header&text=EDUARDO%20GADE%20GUSMAO&fontSize=62&fontColor=e9eef2&animation=fadeIn&fontAlignY=35&desc=SENIOR%20DATA%20ENGINEER%20%20%20%20•%20%20%20%20CLOUD%20PLATFORM%20ARCHITECT&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8B7CFF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Machine+Learning+Researcher+%7C+Applied+Scientist;Bioinformatics+Researcher+%7C+Data+Engineer;Open+Source+Contributor+%7C+Technical+Writer;Reproducible+MLOps+%7C+Project+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8B7CFF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Data+Engineer+%7C+End-to-End+ETL%2FELT+Pipelines;Cloud+Platform+Architect+%7C+Big+Data+Operations;Machine+Learning+Analyst+%7C+Reproducible+MLOps;Technical+Writer+%7C+Project+Manager" alt="Typing SVG" />
 </div>
 
 ---
