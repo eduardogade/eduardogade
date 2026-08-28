@@ -225,7 +225,7 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
 
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2022 | Senior Transition | Senior Data Engineer | Turku Biosciences & Brazilian Ministry of Health | Finland & Brazil </p>
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2020 | Outreach | Award-Winning COVID-19 Outreach Campaign | Göttingen University Medical School | Germany </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2020 | Outreach | Award-Winning COVID-19 Outreach Campaign | Göttingen General Hospital | Germany </p>
 
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2017 | Patent | LAG3-Targeting Cancer Therapy | Current owner: Bristol Myers Squibb | USA </p>
 
@@ -250,16 +250,16 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
   <h4 align="center">KEY MILESTONES</h4>
 </div>
 
-- **Data Engineer** 
+- **Data Engineer**
   - Efficient systems leveraging distributed systems
   - Delivered [25+ full production solutions](https://www.gusmaolab.org)
   - Combined operating margin [growth of ~175%](https://www.gusmaolab.org)
-  
+
 - **Data & Health Researcher**
   - Advanced multi-omics precision medicine pipelines
   - [8 full production](https://www.gusmaolab.org) solutions, earned [ESG compliance](https://www.gusmaolab.org)
   - **[Relatlimab](https://medium.com/@eduardogade)** + nivolumab shown an ORR of 43.1%!
-  
+
 - **Diplomat between stakeholders**
   - Advanced storytelling techniques
   - Translate real-world business problems into systems
@@ -281,17 +281,17 @@ Relocation and onboarding take planning - good systems (and good moves) benefit 
   - Maintains a technical blog at [GusmaoLab](https://www.gusmaolab.org/category/blog)
   - Shares prose at [Medium](https://medium.com/@eduardogade)
   - Top-100 Best-Selling at [Amazon](https://www.amazon.com.br/Theory-Random-Sets-Ilya-Molchanov/dp/1849969493)
-  
+
 - **Public Speaking**
   - From personalized training to [Platform Courses](https://www.youtube.com/@chaoticallysimple)
-  - Keynote spearker at [NeurIPS](https://www.gusmaolab.org/category/blog) [ICML](https://www.gusmaolab.org/category/blog) and [ISMB](https://www.gusmaolab.org/category/blog)
+  - Keynote speaker at [NeurIPS](https://www.gusmaolab.org/category/blog) [ICML](https://www.gusmaolab.org/category/blog) and [ISMB](https://www.gusmaolab.org/category/blog)
   - 200+ high-stakes presentations delivered
 
 - **Professor, Educator & Mentor**
   - Professor of CS at [UFPE/CIn](https://portal.cin.ufpe.br/) and [TUM/SLS](https://www.tum.de/en/)
   - Mentored 25+ [Junior/Mid Data Engineers](https://www.gusmaolab.org/category/blog)
   - Taught >1,500 students; Mentored 15+ MSc/PhDs
-  
+
 - **Professional Networks**
   - Connects [researchers and developers](https://www.gusmaolab.org/category/blog)
   - Bridges the gap between [academia and industry](https://www.gusmaolab.org/category/blog)
@@ -539,7 +539,7 @@ github_positioning:
 <img src="https://www.gusmaolab.org/images/github/section/section-contact.svg" width="880">
 
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Email</b> | eduardo@gusmaolab.org
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIN</b> | https://www.linkedin.com/eduardogade
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIn</b> | https://www.linkedin.com/in/eduardogade/
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Location</b> | Recife, Brazil | Remote-friendly
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Status</b> | Open to Data Engineering roles
 
@@ -568,7 +568,7 @@ github_positioning:
 
 ### Details
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; See [availability & engagement details](#availability)
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; See [writting & communication details](#communication)
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; See [writing & communication details](#communication)
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; See [education](#education) & [leadership details](#career)
 
 </details>
@@ -578,14 +578,154 @@ github_positioning:
 <a id="pinned"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-pinned.svg" width="880">
 
-Placeholder.
+<table align="center">
+<tr>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Apollo" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/96719294/70e2e0c5-82b7-462f-9cec-96d4a2da6350" width="260" alt="Apollo">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Apollo" target="_blank"><b>Apollo</b></a>
+  <br><br>
+  <sub>A unified suite of post-hoc statistical procedures with bias-aware corrections designed for metrics common in computational and ML/DL pipelines.</sub>
+  <br><br>
+  <sub><a href="https://github.com/eduardogade/Apollo" target="_blank">View Repository →</a></sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Blacksmith" target="_blank">
+    <img src="https://opengraph.githubassets.com/6023c3fdf7252212c7f0caea47c7e1f042569d36ac2f0daaabc11581cd08d925/eduardogade/Blacksmith" width="260" alt="Blacksmith">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Blacksmith" target="_blank"><b>Blacksmith</b></a>
+  <br><br>
+  <sub>A high-performance genotype analysis framework for streamlined quality control, variant graph construction, and interactive network visualization.</sub>
+  <br><br>
+  <sub><a href="https://github.com/eduardogade/Blacksmith" target="_blank">View Repository →</a></sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Olympus" target="_blank">
+    <img src="https://opengraph.githubassets.com/d3c26711f16b85c8e624620a0b47fd5cf6720bb385ebddf3f31bebf3c38ebb54/eduardogade/Olympus" width="260" alt="Olympus">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Olympus" target="_blank"><b>Olympus</b></a>
+  <br><br>
+  <sub>A unified framework for discovering, analyzing, integrating, and visualizing regulatory motifs and transcription factor binding sites across bulk, single-cell, and long-read sequencing modalities.</sub>
+  <br><br>
+  <sub><a href="https://github.com/eduardogade/Olympus" target="_blank">View Repository →</a></sub>
+</td>
+
+</tr>
+</table>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+<table align="center">
+<tr>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Apollo" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/96719294/70e2e0c5-82b7-462f-9cec-96d4a2da6350" width="220" alt="Apollo">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Apollo" target="_blank"><b>Apollo</b></a>
+  <br><br>
+  <sub>A unified suite of post-hoc statistical procedures with bias-aware corrections designed for metrics common in computational and ML/DL pipelines.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Blacksmith" target="_blank">
+    <img src="https://opengraph.githubassets.com/6023c3fdf7252212c7f0caea47c7e1f042569d36ac2f0daaabc11581cd08d925/eduardogade/Blacksmith" width="220" alt="Blacksmith">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Blacksmith" target="_blank"><b>Blacksmith</b></a>
+  <br><br>
+  <sub>A high-performance genotype analysis framework for streamlined quality control, variant graph construction, and interactive network visualization.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Olympus" target="_blank">
+    <img src="https://opengraph.githubassets.com/d3c26711f16b85c8e624620a0b47fd5cf6720bb385ebddf3f31bebf3c38ebb54/eduardogade/Olympus" width="220" alt="Olympus">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Olympus" target="_blank"><b>Olympus</b></a>
+  <br><br>
+  <sub>A unified framework for discovering, analyzing, integrating, and visualizing regulatory motifs and transcription factor binding sites across bulk, single-cell, and long-read sequencing modalities.</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Bloom" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/150565907/889158d7-2af8-4e0e-a71f-a96d3aff7b4b" width="220" alt="Bloom">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Bloom" target="_blank"><b>Bloom</b></a>
+  <br><br>
+  <sub>A framework for chromatin architecture data processing, handling and analysis.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Musique" target="_blank">
+    <img src="https://opengraph.githubassets.com/da35a1a72d3a0f9b5bebf7ecefaac53670ef8280896662a5aa6c037d769709bd/eduardogade/Musique" width="220" alt="Musique">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Musique" target="_blank"><b>Musique</b></a>
+  <br><br>
+  <sub>A unified transcriptomics analysis framework supporting bulk, single-cell, long-read, short-read, and spatial expression workflows with integrated normalization, quantification, modeling, and visualization tools.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Wildlife" target="_blank">
+    <img src="https://opengraph.githubassets.com/885dad2040d5daeb32e15e260e7d63f96b4aedc93f4a7b3714d903ba26008994/eduardogade/Wildlife" width="220" alt="Wildlife">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Wildlife" target="_blank"><b>Wildlife</b></a>
+  <br><br>
+  <sub>A unified deep learning framework for high-performance multimodal data imputation, integrating neural operators for tabular, EHR, imaging, audio, video, and biological datasets.</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Fabric" target="_blank">
+    <img src="https://opengraph.githubassets.com/080aa8b4cf6a76aa1672c384b6dfc3e02ba7086dcca1dbdc59cf6ca1e98c4411/eduardogade/Fabric" width="220" alt="Fabric">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Fabric" target="_blank"><b>Fabric</b></a>
+  <br><br>
+  <sub>A collection of health informatics algorithms and tools.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/Uqbar" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/1123768516/18365e50-bec4-47cc-916b-e41e516d6e73" width="220" alt="Uqbar">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/Uqbar" target="_blank"><b>Uqbar</b></a>
+  <br><br>
+  <sub>Ubiquitously Broad Automation and Architecture — a collection of tools for small task automation.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <a href="https://github.com/eduardogade/gusmaolab" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/1031507658/d3c275a4-259a-4655-8789-742deb1a585c" width="220" alt="GusmaoLab">
+  </a>
+  <br><br>
+  <a href="https://github.com/eduardogade/gusmaolab" target="_blank"><b>GusmaoLab</b></a>
+  <br><br>
+  <sub>Source of Eduardo Gusmao's lab website — portfolio, technical blog, and public-facing documentation.</sub>
+</td>
+
+</tr>
+</table>
 
 </details>
 
@@ -594,14 +734,21 @@ Placeholder.
 <a id="contributions"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-contributions.svg" width="880">
 
-Placeholder.
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Apache Software Foundation</b> | Committer | <a href="https://spark.apache.org" target="_blank">Apache Spark</a> | 2025 - Present
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Maintainer</b> | 9+ actively maintained research and engineering tools | See <a href="#pinned">Pinned Repositories</a>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Community & Volunteering</b> | Global Burden of Disease, TransEmpregos, ABRATA | See <a href="#causes">Causes</a>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Status</b> | Curating additional public contribution history
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+Open-source involvement is treated as an extension of day-to-day engineering practice rather than a separate résumé line - it is where tooling, methods, and lessons from production work get generalized and given back.
+
+The most concrete example is the [Apache Spark](https://spark.apache.org) committer status awarded by the Apache Software Foundation in 2025, which followed sustained engagement with the project's distributed-processing internals through professional and personal work. Beyond that, most of the ongoing contribution activity currently lives in the personal toolkit showcased under [Pinned Repositories](#pinned) - actively maintained libraries for statistics, regulatory genomics, chromatin analysis, and small-scale automation - and in the volunteering commitments described under [Causes](#causes).
+
+A broader, evidence-backed view of pull requests, issue triage, and cross-project reviews across external organizations is still being organized for public presentation. Rather than publish an incomplete or padded picture, this subsection will be expanded once that material is ready to stand on its own.
 
 </details>
 
@@ -610,14 +757,41 @@ Placeholder.
 <a id="gitstats"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-gitstats.svg" width="880">
 
-Placeholder.
+<p align="center">
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=eduardogade&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eduardogade&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
+  <br>
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=eduardogade&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Eduardo's%20Most%20Used%20Languages&text_color=e8df7a">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardogade/eduardogade/output-3d-contrib/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardogade/eduardogade/output-3d-contrib/profile-3d-contrib/profile-green.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/eduardogade/eduardogade/output-3d-contrib/profile-3d-contrib/profile-night-green.svg" width="880">
+  </picture>
+</p>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+Additional breakdowns of repositories, commit language distribution, and contribution timing - not already shown above.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogade&theme=omni" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogade&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogade&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogade&theme=omni&utcOffset=+5" width="33%">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardogade/eduardogade/snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardogade/eduardogade/snake/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/eduardogade/eduardogade/snake/github-snake-dark.svg" width="880">
+  </picture>
+</p>
 
 </details>
 
@@ -626,33 +800,16 @@ Placeholder.
 <a id="gitanalytics"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-gitanalytics.svg" width="880">
 
-Placeholder.
+This section is reserved for repository-influence and collaboration analytics - dependency relationships, external review activity, and community engagement across the tools in [Pinned Repositories](#pinned).
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+The dashboard above already covers language mix, commit activity, and contribution cadence well. What is intentionally *not* here yet is a second layer of analytics: how these tools get used and reviewed outside of direct authorship - dependency graphs, downstream adoption, and external review activity.
 
-<p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eduardogade&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
-    <br>
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=eduardogade&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Eduardo's%20Most%20Used%20Languages&text_color=e8df7a">
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=eduardogade&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a">
-    <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogade&theme=omni&exclude={}" width="33%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogade&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogade&theme=omni&utcOffset=+5" width="33%">
-    <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogade&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardogade&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
-    <p align="center">
-      <img src="assets/snakegridtitle.gif" width="500" >
-    </p>
-    <img src="https://raw.githubusercontent.com/eduardogade/eduardogade/snake/github-snake-dark.svg" width="100%">
-    <br>
-    <img src="https://raw.githubusercontent.com/eduardogade/eduardogade/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
-</p>
+No currently available public tooling produces that view at a quality bar consistent with the rest of this page without either being self-hosted or relying on metrics (like early-stage star counts) that would be more decorative than informative for research tooling with a narrow, specialist audience. Rather than fill the space with a vanity widget, this section stays intentionally reserved until metrics that are actually meaningful - closer to genuine downstream engineering usage than surface-level GitHub counters - become available.
 
 </details>
 
@@ -660,8 +817,6 @@ Placeholder.
 
 <a id="techstack"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-techstack.svg" width="880">
-
-Placeholder.
 
 <h6>
 <table align="center">
@@ -736,7 +891,7 @@ Placeholder.
     <td align="center" width="88">
       <a href="https://www.gusmaolab.org/images/github/techicon/bioconductor.svg" target="_blank">
         <img src="https://www.gusmaolab.org/images/github/techicon/bioconductor.svg" width="40" height="40" alt="bioconductor">
-      </a><br>Bioconduct
+      </a><br>Bioconductor
     </td>
     <td align="center" width="88">
       <a href="https://techstack-generator.vercel.app/github-icon.svg" target="_blank">
@@ -829,7 +984,43 @@ Placeholder.
 
 <br/>
 
-Placeholder.
+Complete technology inventory, synchronized with [CV.yaml](CV.yaml) and grouped by domain. Icons shown where a stable public icon set provides one; unmarked names are listed as text only.
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/-Python-0f172a?style=flat-square&logo=python&logoColor=3b82f6) ![SQL](https://img.shields.io/badge/-SQL-0f172a?style=flat-square) ![PySpark/Spark SQL](https://img.shields.io/badge/-PySpark%20%2F%20Spark%20SQL-0f172a?style=flat-square&logo=apachespark&logoColor=3b82f6) ![Scala](https://img.shields.io/badge/-Scala-0f172a?style=flat-square&logo=scala&logoColor=3b82f6) ![Java](https://img.shields.io/badge/-Java-0f172a?style=flat-square&logo=openjdk&logoColor=3b82f6) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-0f172a?style=flat-square&logo=cplusplus&logoColor=3b82f6) ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-0f172a?style=flat-square&logo=gnubash&logoColor=3b82f6) ![Go](https://img.shields.io/badge/-Go-0f172a?style=flat-square&logo=go&logoColor=3b82f6) ![Rust](https://img.shields.io/badge/-Rust-0f172a?style=flat-square&logo=rust&logoColor=3b82f6) ![Julia](https://img.shields.io/badge/-Julia-0f172a?style=flat-square&logo=julia&logoColor=3b82f6) ![Kotlin](https://img.shields.io/badge/-Kotlin-0f172a?style=flat-square&logo=kotlin&logoColor=3b82f6) ![TypeScript](https://img.shields.io/badge/-TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3b82f6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=3b82f6) ![C#](https://img.shields.io/badge/-C%23-0f172a?style=flat-square&logo=csharp&logoColor=3b82f6) ![Ruby](https://img.shields.io/badge/-Ruby-0f172a?style=flat-square&logo=ruby&logoColor=3b82f6) ![PHP](https://img.shields.io/badge/-PHP-0f172a?style=flat-square&logo=php&logoColor=3b82f6) ![HCL](https://img.shields.io/badge/-HCL-0f172a?style=flat-square&logo=terraform&logoColor=3b82f6)
+
+**Data Engineering & Orchestration**
+
+![ETL/ELT](https://img.shields.io/badge/-ETL%2FELT%20Pipelines-0f172a?style=flat-square) ![dbt](https://img.shields.io/badge/-dbt-0f172a?style=flat-square&logo=dbt&logoColor=3b82f6) ![Airflow](https://img.shields.io/badge/-Airflow-0f172a?style=flat-square&logo=apacheairflow&logoColor=3b82f6) ![Kafka](https://img.shields.io/badge/-Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=3b82f6) ![Dimensional Modeling](https://img.shields.io/badge/-Dimensional%20Modeling-0f172a?style=flat-square) ![Schema Design](https://img.shields.io/badge/-Schema%20Design-0f172a?style=flat-square) ![Data Contracts](https://img.shields.io/badge/-Data%20Contracts-0f172a?style=flat-square) ![Lineage](https://img.shields.io/badge/-Lineage-0f172a?style=flat-square) ![Data Quality](https://img.shields.io/badge/-Data%20Quality%20%26%20Validation-0f172a?style=flat-square)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=3b82f6) ![MySQL](https://img.shields.io/badge/-MySQL-0f172a?style=flat-square&logo=mysql&logoColor=3b82f6) ![MongoDB](https://img.shields.io/badge/-MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=3b82f6) ![Redis](https://img.shields.io/badge/-Redis-0f172a?style=flat-square&logo=redis&logoColor=3b82f6) ![BigQuery](https://img.shields.io/badge/-BigQuery-0f172a?style=flat-square&logo=googlebigquery&logoColor=3b82f6) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-0f172a?style=flat-square&logo=amazondynamodb&logoColor=3b82f6) ![ArangoDB](https://img.shields.io/badge/-ArangoDB-0f172a?style=flat-square) ![Pinecone](https://img.shields.io/badge/-Pinecone-0f172a?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-0f172a?style=flat-square) ![Parquet/JSON/CSV](https://img.shields.io/badge/-Parquet%20%2F%20JSON%20%2F%20CSV-0f172a?style=flat-square) ![HDF5/Zarr](https://img.shields.io/badge/-HDF5%20%2F%20Zarr-0f172a?style=flat-square)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/-AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=3b82f6) ![Azure](https://img.shields.io/badge/-Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=3b82f6) ![GCP](https://img.shields.io/badge/-GCP-0f172a?style=flat-square&logo=googlecloud&logoColor=3b82f6) ![Terraform](https://img.shields.io/badge/-Terraform-0f172a?style=flat-square&logo=terraform&logoColor=3b82f6) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-0f172a?style=flat-square&logo=amazonaws&logoColor=3b82f6) ![Pulumi](https://img.shields.io/badge/-Pulumi-0f172a?style=flat-square&logo=pulumi&logoColor=3b82f6) ![Docker](https://img.shields.io/badge/-Docker-0f172a?style=flat-square&logo=docker&logoColor=3b82f6) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=3b82f6) ![Helm](https://img.shields.io/badge/-Helm-0f172a?style=flat-square&logo=helm&logoColor=3b82f6) ![Singularity](https://img.shields.io/badge/-Singularity-0f172a?style=flat-square) ![Podman](https://img.shields.io/badge/-Podman-0f172a?style=flat-square&logo=podman&logoColor=3b82f6) ![SLURM/OpenPBS/MPI](https://img.shields.io/badge/-SLURM%20%2F%20OpenPBS%20%2F%20MPI-0f172a?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=3b82f6) ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-0f172a?style=flat-square&logo=gitlab&logoColor=3b82f6) ![Jenkins](https://img.shields.io/badge/-Jenkins-0f172a?style=flat-square&logo=jenkins&logoColor=3b82f6)
+
+**Machine Learning & AI**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=3b82f6) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=3b82f6) ![JAX](https://img.shields.io/badge/-JAX-0f172a?style=flat-square) ![Keras](https://img.shields.io/badge/-Keras-0f172a?style=flat-square&logo=keras&logoColor=3b82f6) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=3b82f6) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-0f172a?style=flat-square&logo=huggingface&logoColor=3b82f6) ![NLTK](https://img.shields.io/badge/-NLTK-0f172a?style=flat-square) ![Ray](https://img.shields.io/badge/-Ray-0f172a?style=flat-square) ![TensorRT](https://img.shields.io/badge/-TensorRT-0f172a?style=flat-square&logo=nvidia&logoColor=3b82f6) ![LLM APIs / RAG / Embeddings](https://img.shields.io/badge/-LLM%20APIs%20%2F%20RAG%20%2F%20Embeddings-0f172a?style=flat-square) ![MLOps](https://img.shields.io/badge/-MLOps-0f172a?style=flat-square)
+
+**Scientific & Bioinformatics Computing**
+
+![Pandas](https://img.shields.io/badge/-Pandas-0f172a?style=flat-square&logo=pandas&logoColor=3b82f6) ![NumPy](https://img.shields.io/badge/-NumPy-0f172a?style=flat-square&logo=numpy&logoColor=3b82f6) ![SciPy](https://img.shields.io/badge/-SciPy-0f172a?style=flat-square&logo=scipy&logoColor=3b82f6) ![Polars](https://img.shields.io/badge/-Polars-0f172a?style=flat-square&logo=polars&logoColor=3b82f6) ![Dask](https://img.shields.io/badge/-Dask-0f172a?style=flat-square&logo=dask&logoColor=3b82f6) ![Bioconductor](https://img.shields.io/badge/-Bioconductor-0f172a?style=flat-square) ![PySAM](https://img.shields.io/badge/-PySAM-0f172a?style=flat-square) ![GATK](https://img.shields.io/badge/-GATK-0f172a?style=flat-square) ![Snakemake](https://img.shields.io/badge/-Snakemake-0f172a?style=flat-square) ![Nextflow](https://img.shields.io/badge/-Nextflow-0f172a?style=flat-square&logo=nextflow&logoColor=3b82f6) ![OpenCV](https://img.shields.io/badge/-OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=3b82f6) ![PyCaret](https://img.shields.io/badge/-PyCaret-0f172a?style=flat-square)
+
+**Web, APIs & Dashboards**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=3b82f6) ![Django](https://img.shields.io/badge/-Django-0f172a?style=flat-square&logo=django&logoColor=3b82f6) ![React](https://img.shields.io/badge/-React-0f172a?style=flat-square&logo=react&logoColor=3b82f6) ![Next.js](https://img.shields.io/badge/-Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=3b82f6) ![Express.js](https://img.shields.io/badge/-Express.js-0f172a?style=flat-square&logo=express&logoColor=3b82f6) ![Gradio](https://img.shields.io/badge/-Gradio-0f172a?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=3b82f6) ![Dash](https://img.shields.io/badge/-Dash-0f172a?style=flat-square&logo=plotly&logoColor=3b82f6) ![REST](https://img.shields.io/badge/-REST-0f172a?style=flat-square) ![GraphQL](https://img.shields.io/badge/-GraphQL-0f172a?style=flat-square&logo=graphql&logoColor=3b82f6) ![gRPC](https://img.shields.io/badge/-gRPC-0f172a?style=flat-square&logo=grpc&logoColor=3b82f6) ![Power BI](https://img.shields.io/badge/-Power%20BI-0f172a?style=flat-square&logo=powerbi&logoColor=3b82f6)
+
+**Observability & DevOps**
+
+![Prometheus](https://img.shields.io/badge/-Prometheus-0f172a?style=flat-square&logo=prometheus&logoColor=3b82f6) ![Grafana](https://img.shields.io/badge/-Grafana-0f172a?style=flat-square&logo=grafana&logoColor=3b82f6) ![Ruff](https://img.shields.io/badge/-Ruff-0f172a?style=flat-square&logo=ruff&logoColor=3b82f6) ![Git](https://img.shields.io/badge/-Git-0f172a?style=flat-square&logo=git&logoColor=3b82f6) ![pip/poetry/(micro)mamba](https://img.shields.io/badge/-pip%20%2F%20poetry%20%2F%20(micro)mamba-0f172a?style=flat-square)
+
+**Documentation & Markup**
+
+![YAML](https://img.shields.io/badge/-YAML-0f172a?style=flat-square&logo=yaml&logoColor=3b82f6) ![Markdown](https://img.shields.io/badge/-Markdown-0f172a?style=flat-square&logo=markdown&logoColor=3b82f6) ![LaTeX](https://img.shields.io/badge/-LaTeX-0f172a?style=flat-square&logo=latex&logoColor=3b82f6) ![HTML/CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-0f172a?style=flat-square&logo=html5&logoColor=3b82f6) ![Quarto](https://img.shields.io/badge/-Quarto-0f172a?style=flat-square)
 
 </details>
 
@@ -974,14 +1165,31 @@ Contributions:
 <a id="communication"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-writting-communication.svg" width="880">
 
-Placeholder.
+<p align="center">
+  <a href="https://www.gusmaolab.org" target="_blank">
+    <img src="https://img.shields.io/badge/📝_BLOG-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Blog"/>
+  </a>
+  <a href="https://www.gusmaolab.org" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️_ATLAS_LEARNING_SERIES-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Atlas Learning Series"/>
+  </a>
+  <a href="https://medium.com/@eduardogade" target="_blank">
+    <img src="https://img.shields.io/badge/✍️_MEDIUM-3b82f6?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=0f172a" alt="Medium"/>
+  </a>
+  <a href="https://www.amazon.com.br/Theory-Random-Sets-Ilya-Molchanov/dp/1849969493" target="_blank">
+    <img src="https://img.shields.io/badge/📚_BOOK-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Book"/>
+  </a>
+</p>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+I treat writing as an engineering discipline, not an afterthought bolted onto the end of a project. A pipeline that nobody can explain six months later is not really finished, no matter how well it runs today - the explanation is part of the deliverable, and it degrades just like code does if nobody maintains it.
+
+Most of what I write falls into two categories: documentation that has to survive contact with someone else's Monday morning, and architecture notes that have to survive contact with my own memory a year from now. Both audiences are unforgiving in the same way - they punish vagueness, reward precision, and do not care how elegant the underlying system is if the explanation doesn't hold up. Writing clearly about a system is often the fastest way to discover that it isn't as clearly designed as I thought.
+
+The [Atlas Learning Series](https://www.gusmaolab.org) and the posts on [Gusmao Lab](https://www.gusmaolab.org) and [Medium](https://medium.com/@eduardogade) exist for the same reason internal design docs exist: complexity that stays in one person's head is a liability, and complexity that gets written down - honestly, without inflating it - becomes something a team can actually build on.
 
 </details>
 
@@ -990,14 +1198,23 @@ Placeholder.
 <a id="availability"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-availability.svg" width="880">
 
-Placeholder.
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Status</b> | Open to new opportunities | Data Engineering / Data Platform roles
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Work style</b> | Remote, hybrid, or on-site | Relocation-friendly
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Geography</b> | Europe → Brazil → Worldwide, roughly in that order of preference
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Engagement</b> | Long-term, technically demanding roles preferred over short-term contracts
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+Geography is a genuine preference, not a hard boundary. Europe and Brazil are where my professional and personal ties are strongest, so a role based there - or a remote/hybrid arrangement rooted there - tends to be the smoothest fit. That said, a worldwide, well-run, technically serious opportunity is always worth a conversation; relocation and onboarding just take a bit more planning, the same way any well-run migration does.
+
+What I optimize for in a team is closer to craftsmanship than throughput. I would rather ship a system that is a little slower to build and considerably easier to operate, extend, and hand off, than one that is fast to demo and expensive to live with. That preference shows up as a bias toward explicit trade-offs, readable code, tests that actually catch regressions, and documentation that survives the person who wrote it moving on to something else.
+
+Productivity, in my experience, tracks environment more than effort. Teams with reproducible builds, sane CI/CD, infrastructure-as-code, and automation around the boring parts of the job consistently ship better software than teams without them - independent of talent, tooling brand, or operating system. I look for that kind of environment because it is where careful engineering actually compounds instead of getting rebuilt from scratch every eighteen months, and I try to leave every team I join a little closer to it than I found it.
+
+Collaboration matters just as much as any individual technical choice. The best systems I have worked on came out of teams that argued about trade-offs early, wrote decisions down, and treated architecture as something owned collectively rather than defended individually - that is the kind of team I look for, and the kind I try to build.
 
 </details>
 
@@ -1006,14 +1223,22 @@ Placeholder.
 <a id="roadmap"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-roadmap.svg" width="880">
 
-Placeholder.
+<p align="center">
+  <img src="assets/placeholders/roadmap-hero.svg" width="440" alt="Roadmap illustration placeholder">
+</p>
+
+This section will eventually map out long-term technical direction rather than a short-term task list: platform evolution, research directions worth pursuing further, open-source initiatives planned for the tools under [Pinned Repositories](#pinned), and the engineering initiatives that connect them. The illustration above is a placeholder reserved for that map.
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+<p align="center">
+  <img src="assets/placeholders/roadmap-detail.svg" width="760" alt="Roadmap illustration placeholder, expanded">
+</p>
+
+The expanded version of this section will lay out where the underlying platforms and research directions are headed over the next several years - which parts of the current toolkit graduate from personal research tools into broader shared infrastructure, which open questions from the publication record are worth a dedicated engineering push, and which engineering practices (observability, reproducibility, data contracts) are being generalized across projects rather than reinvented per repository. The illustration above will be replaced with the final roadmap artwork once that direction is settled.
 
 </details>
 
@@ -1022,17 +1247,43 @@ Placeholder.
 <a id="education"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-education.svg" width="880">
 
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2018 | PhD | Biomedical Informatics | Harvard Medical School </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2017 | PhD | Biomedical Informatics | Harvard Medical School </p>
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2015 | PhD | Life Sciences | RWTH Aachen University </p>
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2011 | MSc | Machine & Deep Learning | RWTH Aachen University </p>
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2010 | BSc | Computer Science | RWTH Aachen University </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2011 | MSc | Machine & Deep Learning | Federal University of Pernambuco </p>
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; 2008 | BSc | Computer Science | Federal University of Pernambuco </p>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+<details>
+<summary><b>Ph.D. in Biomedical Informatics — Harvard Medical School (2013 - 2017)</b></summary>
+<br/>
+
+Doctoral work carried out in parallel with a data engineering role at the Dana-Farber Cancer Institute, focused on computational pipelines supporting CRISPR-based immunotherapy target discovery. Contributed to target-discovery work that advanced into clinical development for LAG-3-based immunotherapy, later commercialized as Opdualag (Relatlimab + Nivolumab). Co-authored studies published during this period spanning cervical cancer genomics (*Nature*), chromatin organization in senescence (*Molecular Cell*), and computational footprinting methods for regulatory genomics (*Nature Methods*) - see [Research](#research).
+</details>
+
+<details>
+<summary><b>Ph.D. Dr. rer. nat. in Data Engineering and Computational Life Sciences — RWTH Aachen University (2011 - 2015)</b></summary>
+<br/>
+
+Doctoral research in regulatory genomics and epigenomics, centered on computational footprinting methods for DNase-seq and related chromatin assays. This period produced the analytical groundwork later published as a landmark comparison of 12+ footprinting methods (cover article, *Nature Methods*) and the method that became [Olympus](https://github.com/eduardogade/Olympus), alongside early chromatin-architecture work that would grow into [Bloom](https://github.com/eduardogade/Bloom).
+</details>
+
+<details>
+<summary><b>M.Sc. in Computer Science (Machine & Deep Learning) — Federal University of Pernambuco (2010 - 2011)</b></summary>
+<br/>
+
+This subsection will summarize the thesis focus, key coursework, and any early research output from the Master's program once that material is organized for public presentation.
+</details>
+
+<details>
+<summary><b>B.Sc. in Computer Science — Federal University of Pernambuco (2008 - 2011)</b></summary>
+<br/>
+
+This subsection will summarize notable coursework, early projects, and foundational technical milestones from the undergraduate program once that material is organized for public presentation.
+</details>
 
 </details>
 
@@ -1041,16 +1292,26 @@ Placeholder.
 <a id="ethics"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-phylosophy-ethics.svg" width="880">
 
-Placeholder.
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Craftsmanship</b> | Software is read far more often than it is written; optimize accordingly
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Reproducibility</b> | If a result cannot be rebuilt from scratch, it is not yet a result
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Documentation & Testing</b> | Explicit beats implicit; tested beats assumed
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Data Governance</b> | Especially with healthcare and other sensitive data, privacy and auditability are not optional
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Scientific Integrity</b> | Reproducible engineering practices are how research claims earn trust
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+Most of my engineering principles come from having worked on data that describes real people - patients, cohorts, research participants - long before it became rows in a table. That background makes certain things non-negotiable: sensitive data gets handled with explicit access controls and audit trails, not "we'll get to it later" promises, and a pipeline that cannot explain its own provenance is not trustworthy no matter how good its output looks.
 
-Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳 
+Maintainability is the other constant. Code that only its author can safely change is a liability with a delay timer on it, and documentation that describes what a system does two versions ago is worse than no documentation at all, because it actively misleads. I would rather spend an extra afternoon on a clear interface and an honest README than leave that debt for whoever inherits the system - often enough, that person is me, eighteen months later, with no memory of the clever shortcut I took.
+
+Scientific reproducibility and software engineering discipline turned out to be the same skill wearing different clothes. A result that cannot be rebuilt from raw inputs by someone else is not really a result yet, just a claim; the same containerized, version-controlled, tested rigor that makes a data pipeline trustworthy in production is what makes a research finding trustworthy in a paper. I try not to draw a hard line between the two.
+
+A few thinkers show up in how I approach this, more as working tools than as heroes. Wittgenstein's attention to the limits of language maps directly onto naming things well and writing documentation that means exactly what it says - ambiguity in a spec is a bug, not a style choice. Camus's insistence on working honestly inside an absurd, uncertain world is a fair description of what building on messy real-world data actually feels like: you do not get certainty, you get discipline. And the habit of asking who actually benefits from a given system, and who quietly bears its costs, is a useful lens for thinking about the social impact of the technology I help build - not a political position, just a question worth asking before shipping.
+
+Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 
 </details>
 
@@ -1059,14 +1320,46 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 <a id="causes"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-charity-causes.svg" width="880">
 
-Placeholder.
+<table align="center">
+<tr>
+
+<td align="center" width="33%" valign="top">
+  <b>Global Burden of Disease</b>
+  <br><br>
+  <sub><b>Collaborator</b> · 2018 - Present</sub>
+  <br><br>
+  <sub>Contributing to one of the world's largest collaborative efforts for measuring disease burden through data infrastructure, engineering, and scientific collaboration.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <b>TransEmpregos</b>
+  <br><br>
+  <sub><b>Volunteer</b> · 2024 - Present</sub>
+  <br><br>
+  <sub>Supporting infrastructure and data engineering for employability initiatives focused on transgender professionals.</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+  <b>ABRATA</b>
+  <br><br>
+  <sub><b>Volunteer</b> · 2022 - 2025</sub>
+  <br><br>
+  <sub>Supporting initiatives that improve awareness and education regarding mood disorders and mental health.</sub>
+</td>
+
+</tr>
+</table>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+**[Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd/collaborator-network)** is one of the largest ongoing scientific collaborations in public health, coordinating thousands of researchers across nearly every country to produce comparable estimates of disease, injury, and risk-factor burden over time. For a data engineer, it is also a genuinely hard distributed-collaboration problem - reconciling heterogeneous data sources, methods, and reporting standards across institutions that rarely share infrastructure. Participating in that network connects day-to-day pipeline work to public-health decisions made well beyond any single hospital or country.
+
+**[TransEmpregos](https://www.transempregos.com.br/)** works to close the employment gap faced by transgender professionals in Brazil, one of the countries where that gap is widest. The technical need is unglamorous and familiar - reliable data infrastructure so the organization can run, match opportunities, and measure impact - but the outcome is concrete: real people getting a fairer shot at stable employment.
+
+**[ABRATA](https://www.abrata.org.br/seja-um-voluntario-abrata/)** (Associação Brasileira de Familiares, Amigos e Portadores de Transtornos Afetivos) works on public awareness and education around mood disorders in Brazil, where mental-health literacy still lags far behind physical-health literacy. Supporting an organization like this is a reminder that not every meaningful contribution has to be technical - sometimes it is simply showing up.
 
 </details>
 
@@ -1075,14 +1368,76 @@ Placeholder.
 <a id="others"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-other-activities.svg" width="880">
 
-Placeholder.
+<table align="center">
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="assets/placeholders/activity-powerlifting.svg" width="220" alt="Powerlifting placeholder">
+</td>
+<td valign="middle">
+
+**Powerlifting**
+
+<sub>This card is reserved for the story of how powerlifting became part of a long-term routine - the discipline of programmed progress, patience with plateaus, and the same respect for fundamentals that shows up in engineering work. Placeholder narrative pending the owner's personal write-up.</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+<table align="center">
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="assets/placeholders/activity-opensource.svg" width="220" alt="Open source contributor placeholder">
+</td>
+<td valign="middle">
+
+**Open Source Contributor**
+
+<sub>This card is reserved for a closer look at the personal research toolkit maintained under [Pinned Repositories](#pinned) and the broader open-source habits behind it. Placeholder narrative pending the owner's personal write-up.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="assets/placeholders/activity-lecturer.svg" width="220" alt="Lecturer and public speaker placeholder">
+</td>
+<td valign="middle">
+
+**Lecturer & Public Speaker**
+
+<sub>This card is reserved for a closer look at teaching CS at [UFPE/CIn](https://portal.cin.ufpe.br/) and [TUM/SLS](https://www.tum.de/en/), keynote talks at NeurIPS, ICML, and ISMB, and the platform courses on [YouTube](https://www.youtube.com/@chaoticallysimple). Placeholder narrative pending the owner's personal write-up.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="assets/placeholders/activity-bioconductor.svg" width="220" alt="Bioconductor and Cloud Composer placeholder">
+</td>
+<td valign="middle">
+
+**Bioconductor & Cloud Composer**
+
+<sub>This card is reserved for a closer look at contributions to the Bioconductor ecosystem and cloud-orchestrated bioinformatics workflows. Placeholder narrative pending the owner's personal write-up.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="assets/placeholders/activity-writer.svg" width="220" alt="Writer placeholder">
+</td>
+<td valign="middle">
+
+**Writer — Technical & Prose**
+
+<sub>This card is reserved for a closer look at writing that sits outside pure documentation - the essays on [Medium](https://medium.com/@eduardogade) and posts on [Gusmao Lab](https://www.gusmaolab.org) that mix technical and personal prose. See also [Writing & Communication](#communication). Placeholder narrative pending the owner's personal write-up.</sub>
+
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -1091,14 +1446,24 @@ Placeholder.
 <a id="bloom"></a>
 <img src="https://www.gusmaolab.org/images/github/section/section-eduardo.svg" width="880">
 
-Placeholder.
+Something about the way chromatin folds always made me think about software. A single strand, roughly two meters of it, curls itself around histones, loops into topologically associated domains, and somehow keeps a coherent shape while every cell division unwinds it and rebuilds it, over and over, without corrupting the original state. It is not organized top-down. It emerges, correct.
 
 <details>
 <summary><em>I would like to know more...</em></summary>
 
 <br/>
 
-Placeholder.
+I have spent a long time studying two kinds of structures that grow rather than get assembled: chromatin, and the platforms I build. Both start from something small and rule-bound - a sequence, a schema - and both end up more complex than any single rule predicted, if the underlying constraints were sound. Trees do this too. So do good codebases, on the rare occasions we let them.
+
+A tree's roots are unglamorous and mostly invisible, and that is exactly why they matter. Get the architecture wrong - the data model, the ingestion contracts, the boundaries between systems - and no amount of visible polish above ground will hold. I have watched pipelines that looked finished on a dashboard collapse the first time an upstream schema changed quietly, because nobody had thought about the roots. A platform's roots are its architecture: not the diagram, but the actual set of guarantees the rest of the system is allowed to assume.
+
+Branches are abstractions, and abstractions are a claim about the future - a bet that certain kinds of change will be common and others rare. Good branches grow toward light without breaking under their own weight; good abstractions absorb the variation a system actually encounters without becoming a museum of speculative flexibility nobody uses. I try to grow only the branches a platform's real weather pattern justifies, and prune the rest before they calcify into debt.
+
+Leaves are features - individually small, replaceable, numerous, and that is fine, because that is what leaves are for. No single leaf makes a tree; no single feature makes a platform. What matters is whether the tree keeps producing them, season after season, without straining the structure that holds it up.
+
+Bloom, when it happens, is not a separate event bolted onto the tree. It is what roots, branches, and leaves look like once they have had enough seasons to mature together - the moment a platform stops needing its author in the room to keep functioning, when the same rigor and reproducibility hold whether or not anyone is watching. That is the only kind of engineering maturity I actually trust: not a launch date, but a system that has had time to become itself.
+
+There is a version of this that is purely biological, too. I named a chromatin-analysis tool `Bloom` for a literal reason - because folding, for DNA as for trees, is how a few meters of raw sequence become something legible enough to regulate a cell, or a genome, or an entire organism's development. The pattern is the same one degree removed: order, at scale, emerging from constraints simple enough to state and rich enough to surprise you. That is the intersection I keep circling back to, whether the raw material is contribution history, transcription-factor binding sites, or four bars of a chord progression that resolve in a way you did not quite predict but immediately trust. Systems allowed to grow honestly tend to end up, eventually, somewhere worth arriving.
 
 </details>
 

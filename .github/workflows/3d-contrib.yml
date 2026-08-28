@@ -1,0 +1,44 @@
+name: generate 3d contribution graph
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      # keeps the generated SVGs on a dedicated branch instead of main,
+      # matching the "output-3d-contrib" branch referenced from README.md
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Switch to (or create) the output branch
+        run: |
+          git fetch origin output-3d-contrib || true
+          if git ls-remote --exit-code --heads origin output-3d-contrib > /dev/null 2>&1; then
+            git checkout output-3d-contrib
+          else
+            git checkout --orphan output-3d-contrib
+            git rm -rf . > /dev/null 2>&1 || true
+          fi
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git commit -m "generated"; then
+            git push origin output-3d-contrib
+          fi
