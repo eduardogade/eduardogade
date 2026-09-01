@@ -1415,11 +1415,11 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 </tr>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="https://www.gusmaolab.org/images/github/pictures/music-small.jpeg" width="220" alt="Bioconductor and Cloud Composer placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/music-small.jpg" width="220" alt="Conductor & Composer">
 </td>
 <td valign="middle">
 
-**Bioconductor & Cloud Composer**
+**Conductor & Composer**
 
 <sub>This card is reserved for a closer look at contributions to the Bioconductor ecosystem and cloud-orchestrated bioinformatics workflows. Placeholder narrative pending the owner's personal write-up.</sub>
 
