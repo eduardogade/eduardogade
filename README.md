@@ -1371,7 +1371,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 <table align="center">
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/placeholders/activity-powerlifting.svg" width="220" alt="Powerlifting placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/powerlifting-small.jpg" width="220" alt="Powerlifting placeholder">
 </td>
 <td valign="middle">
 
@@ -1391,7 +1391,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 <table align="center">
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/placeholders/activity-opensource.svg" width="220" alt="Open source contributor placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/open-small.jpeg" width="220" alt="Open source contributor placeholder">
 </td>
 <td valign="middle">
 
@@ -1403,7 +1403,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 </tr>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/placeholders/activity-lecturer.svg" width="220" alt="Lecturer and public speaker placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/class-small.jpeg" width="220" alt="Lecturer and public speaker placeholder">
 </td>
 <td valign="middle">
 
@@ -1415,7 +1415,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 </tr>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/placeholders/activity-bioconductor.svg" width="220" alt="Bioconductor and Cloud Composer placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/music-small.jpeg" width="220" alt="Bioconductor and Cloud Composer placeholder">
 </td>
 <td valign="middle">
 
@@ -1427,7 +1427,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 </tr>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/placeholders/activity-writer.svg" width="220" alt="Writer placeholder">
+  <img src="https://www.gusmaolab.org/images/github/pictures/writing-small.jpeg" width="220" alt="Writer placeholder">
 </td>
 <td valign="middle">
 
