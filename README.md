@@ -553,7 +553,7 @@ github_positioning:
 ### Professional Profiles
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>LinkedIn:</b> https://www.linkedin.com/in/eduardogade/
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Website & Blog:</b> https://www.gusmaolab.org
-<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>CV/Resume:</b> https://www.gusmaolab.org/CV_Eduardo_Gusmao.pdf
+<p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>CV/Resume:</b> https://www.gusmaolab.org/cv/CV_Eduardo_Gusmao.pdf
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Stack Overflow:</b> https://stackoverflow.com/users/32223943/eduardo-gusmao
 <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Medium:</b> https://medium.com/@eduardogade
 <!-- <p><img src="https://www.gusmaolab.org/images/github/bullet/bullet-header-2.svg" width="10"> &nbsp;&nbsp;&nbsp; <b>Dev.to:</b> https://dev.to/eduardogade
@@ -1415,7 +1415,7 @@ Flagship: 🏳️‍⚧️ | 🏳️‍🌈 | 🇺🇳
 </tr>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="https://www.gusmaolab.org/images/github/pictures/music-small.jpg" width="220" alt="Conductor & Composer">
+  <img src="https://www.gusmaolab.org/images/github/pictures/music-small.jpeg" width="220" alt="Conductor & Composer">
 </td>
 <td valign="middle">
 
