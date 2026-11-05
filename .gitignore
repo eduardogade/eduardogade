@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Other folders
-_legacy/
 _inspiration/
+_legacy/
 _logo/
 _reports/
